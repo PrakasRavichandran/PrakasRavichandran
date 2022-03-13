@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrakasRavichandran
 - 👀 I’m interested in Web Developement & Electrical
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript 
 - 💞️ B.E Final Year 
 - 👨‍💻 Self Learning Programmer
 - 💖 Loves to love people
