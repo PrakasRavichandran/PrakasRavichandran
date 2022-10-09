@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrakasRavichandran
-- 👀 I’m interested in Web Developement & Electrical
-- 🌱 I’m currently learning JavaScript 
-- 💞️ B.E Final Year 
+- 👀  Full Stack Developer
+- 🌱 Learning JavaScript 
+- 💞️ Bachelor of Engineering 
 - 👨‍💻 Self Learning Programmer
 - 💖 Loves to love people
 
