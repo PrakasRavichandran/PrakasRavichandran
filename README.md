@@ -9,7 +9,7 @@
  -->
 ---
 
-<a href="https://github.com/learnwithalfred">
+<a href="https://github.com/PrakasRavichandran/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&theme=buefy&layout=compact" />
 </a>
