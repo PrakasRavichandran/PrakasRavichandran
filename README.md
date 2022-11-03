@@ -2,8 +2,6 @@
   <img src="./Prakash Ravichandran.png" width="100%">
 </p> <br><br>
 
----
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&theme=transparent"/>
   </a>
