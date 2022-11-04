@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Prakash Ravichandran.SVG" width="100%">
+  <img src="./Prakash Ravichandran.png" width="100%">
 </p> <br><br>
 
 <p align="center">
