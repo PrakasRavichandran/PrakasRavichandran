@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./Prakash Ravichandrann.SVG" width="100%">
-</p> <br><br>
-
+</p> 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&theme=transparent"/>
   </a>
