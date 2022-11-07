@@ -4,6 +4,9 @@
 
 ---
 
+<div align="center"> <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?" /></div>
+<br>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&theme=transparent"/>
   </a>
