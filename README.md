@@ -1,4 +1,5 @@
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
   <img src="./Prakash Ravichandrann.SVG" width="100%">
 </p>
 
