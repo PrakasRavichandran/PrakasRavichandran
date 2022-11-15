@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrakasRavichandran?cardType=level&theme=monokai&Background=DD272700&Text=2965F1&Title=032F6200&Border=032F62&Ring=2965F1" /> 
+<img  alt="PrakasRavichandran's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrakasRavichandran?cardType=level&theme=monokai&Background=DD272700&Text=2965F1&Title=032F6200&Border=032F62&Ring=DF7D38" /> 
 </p>
 
 
