@@ -10,17 +10,17 @@
 <div align="center"> <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?" /></div>
 </p>
 <p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=PrakasRavichandran&cc=FF2D2D00&tc=2965F1&ic=DF7D38&bc=032F62" /> 
+<img width="600" alt="PrakasRavichandran's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=PrakasRavichandran&cc=FF2D2D00&tc=2965F1&ic=DF7D38&bc=032F62" /> 
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&show_icons=true&bg_color=2965F100&text_color=2965F1&hide_title=true&border_color=032F62" alt="language"/> </p>
+<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&show_icons=true&bg_color=2965F100&text_color=2965F1&hide_title=true&border_color=032F62" alt="language"/> </p>
 
 <p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&bg_color=032F6200&text_color=2965F1&icon_color=DF7D38&title_color=DF7D38&border_color=032F62" /> 
+<img  width="600" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&bg_color=032F6200&text_color=2965F1&icon_color=DF7D38&title_color=DF7D38&border_color=032F62" alt="crazychickendev"/>
 </p>
 
 <p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" /> 
+<img width="600" alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" /> 
 </p>
 
 
