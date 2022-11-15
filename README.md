@@ -9,19 +9,18 @@
 <p align="center">
 <div align="center"> <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?" /></div>
 </p>
+<p align="center">
+<img  alt="PrakasRavichandran's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=PrakasRavichandran&cc=FF2D2D00&tc=2965F1&ic=DF7D38&bc=032F62" /> 
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&show_icons=true&bg_color=2965F100&text_color=2965F1&hide_title=true&border_color=032F62" alt="language"/> </p>
 
-
-<p align="center"><img src="https://raw.githubusercontent.com/PrakasRavichandran/github-stats-transparent/20236b4c05880a71e6c993760a697947b4f124a6/generated/languages.svg" /><img src="https://raw.githubusercontent.com/PrakasRavichandran/github-stats-transparent/20236b4c05880a71e6c993760a697947b4f124a6/generated/overview.svg" />
+<p align="center">
+<img  alt="PrakasRavichandran's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&bg_color=032F6200&text_color=2965F1&icon_color=DF7D38&title_color=DF7D38&border_color=032F62" /> 
 </p>
 
 <p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/PrakasRavichandran?cardType=level&theme=monokai&Background=DD272700&Text=2965F1&Title=032F6200&Border=032F62&Ring=DF7D38" /> 
-</p>
-
-
-
-<p align="center">
-<img  alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=0078D4&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" /> 
+<img  alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" /> 
 </p>
 
 
