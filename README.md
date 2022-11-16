@@ -52,4 +52,7 @@
   
 <br><br>
 
-<p align="center"> <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&unique={true|1|on|yes}" alt="crazychickendev"/></p>
+<p align="center"> <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&unique={true|1|on|yes}" /></p>
+
+
+
