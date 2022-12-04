@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="./Prakash.SVG" width="100%">
-</p>
+</p>-->
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
 </p>
 
@@ -46,12 +46,9 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
   </a>
 </p>
 
----
 
-### Contact 
-<br>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://instagram.com/prakashravichandrann">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/>
     &nbsp;
@@ -59,6 +56,6 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
   </a>
 
-</p>
+</p>-->
 
 
