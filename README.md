@@ -1,6 +1,6 @@
-<!--<p align="center">
-  <img src="./Prakash.SVG" width="100%">
-</p>-->
+<p align="center">
+  <img src="prks.png">
+</p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
 </p>
 
