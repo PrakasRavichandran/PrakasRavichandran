@@ -51,13 +51,11 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
 ### Contact 
 
 <p align="center">
-  <a href="https://instagram.com/prakashravichandrann">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"/>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/prakashravichandran10/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" />
-  </a>
+<a href="https://www.linkedin.com/in/prakashravichandran10/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" width="30"/></a>
+&ensp;<a href="https://instagram.com/prakashravichandrann"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" width="30"/></a>
 
 </p>
+  
+  
 
 
