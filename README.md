@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://prakasravichandran.github.io/portfolioo/">
-  <img src="" width="480"/>
+  <img src="/Prakash Ravichandran.SVG" width="480"/>
        </a>
 </div>
 
