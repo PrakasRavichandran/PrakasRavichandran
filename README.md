@@ -1,10 +1,8 @@
 <div id="header" align="center">
     <a href="https://prakasravichandran.github.io/portfolioo/">
-  <img src="https://dsm01pap003files.storage.live.com/y4m4kZCEzXEgyCOEcWbjENDlXbq3Iqot9eKBCZqw4wn982E_kWYEs1lyslVMR3pe8fONWoRN6wj7a9x6S1qn_DZwEneG5pg9SRu_-ASBEbTYKszsDRk1DSM-34B3iC_nZCvEab0eftbsykEI99Ych-PcUWDL7hpaM9ttdX9I5P4yZToQ8csasmKTxAIpeLQZ8fE?width=7680&height=3840&cropmode=none" />
+  <img src="https://dsm01pap003files.storage.live.com/y4mDMp584atGgW9I0J2f5qScS3S6UbMBJ6Zx0_Tp-Es6zRD2xyzQE5htgbMxCoKsmVsSSRvll01LigiaUnt40FjxgmmPZprx-otdtCiOa2ba_YMaeqNotEQA2B3Hgdtqgifj6PBHSBO0rDXr3qhwW8wA8xjnIlTZOh8ndCctkXeGeXGwawE4iYZUxJOX304A3j_?width=7680&height=3840&cropmode=none" />
        </a>
 </div>
-
-![](prks.png)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
