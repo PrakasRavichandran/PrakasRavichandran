@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://prakasravichandran.github.io/portfolioo/">
-  <img src="https://dsm01pap003files.storage.live.com/y4mDMp584atGgW9I0J2f5qScS3S6UbMBJ6Zx0_Tp-Es6zRD2xyzQE5htgbMxCoKsmVsSSRvll01LigiaUnt40FjxgmmPZprx-otdtCiOa2ba_YMaeqNotEQA2B3Hgdtqgifj6PBHSBO0rDXr3qhwW8wA8xjnIlTZOh8ndCctkXeGeXGwawE4iYZUxJOX304A3j_?width=7680&height=3840&cropmode=none" />
+  <img src="/Cover.svg" />
        </a>
 </div>
 
