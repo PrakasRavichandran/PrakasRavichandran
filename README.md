@@ -27,18 +27,15 @@
 <img width="600" alt="PrakasRavichandran's GitHub Stats" src="https://streak-stats.demolab.com?user=PrakasRavichandran&theme=dark&date_format=j%20M%5B%20Y%5D&dates=FFFFFF&background=FF2D2D00&border=032F62&stroke=032F62&ring=2965F1&fire=DF7D38&currStreakNum=DF7D38&sideNums=2965F1&currStreakLabel=2965F1&sideLabels=DF7D38" /> 
 </p>
 
-  
 <br>
 
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&icon_color=e44b23&repo=PINK&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=SmartClassroom&icon_color=e44b23&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Face-Mask-Detection-System-py&icon_color=3572A5&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=React-Blog-App&icon_color=f1e05a&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62"
-href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Automatic-Attendance-System&icon_color=f34b7d&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Digital-Clock&icon_color=e44b23&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62"
+ <img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&icon_color=e44b23&repo=PINK&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=SmartClassroom&icon_color=e44b23&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Face-Mask-Detection-System-py&icon_color=3572A5&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=ThirukuralApp&icon_color=f1e05a&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62"
+href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Automatic-Attendance-System&icon_color=f34b7d&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=ChefSource&icon_color=563d7c&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62"
 href="https://github.com/PrakasRavichandran/repo-name"/>
 </p>  
 <br>
 <p align="center"> <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&unique={true|1|on|yes}" /></p>
-
-
 
 ---
 
@@ -52,14 +49,10 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
 
 ---
 
-### Contact 
+### Contact
 
 <p align="center">
 <a href="https://www.linkedin.com/in/prakashravichandran10/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" width="30"/></a>
-&ensp;<a href="https://instagram.com/prakashravichandrann"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" width="30"/></a>
+ <a href="https://instagram.com/prakashravichandrann"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" width="30"/></a>
 
 </p>
-  
-  
-
-
