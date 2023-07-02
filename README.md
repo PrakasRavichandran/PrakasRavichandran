@@ -61,7 +61,6 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
 &ensp;<a href="https://instagram.com/prakasravichandran"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" width="30"/></a>
 
 </p>
-  
-  
+
 
 
