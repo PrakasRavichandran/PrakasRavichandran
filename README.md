@@ -16,8 +16,8 @@
 <p align="center">
 <img width="450" alt="PrakasRavichandran's GitHub Stats" src="https://github-stats-alpha.vercel.app/api?username=PrakasRavichandran&cc=FF2D2D00&tc=2965F1&ic=DF7D38&bc=032F62" /> 
 </p>
-<p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&show_icons=true&bg_color=2965F100&text_color=2965F1&hide_title=true&border_color=032F62" alt="language"/> </p>
+<!--<p align="center">
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&show_icons=true&bg_color=2965F100&text_color=2965F1&hide_title=true&border_color=032F62" alt="language"/> </p>-->
 
 <!--<p align="center">
 <img  width="450" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true&bg_color=032F6200&text_color=2965F1&icon_color=DF7D38&title_color=DF7D38&border_color=032F62" alt="crazychickendev"/>
