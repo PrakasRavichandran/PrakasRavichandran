@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://prakashravichandran.com/">
-<img src="https://dsm01pap003files.storage.live.com/y4m6h3hO-8ItHEdgy8BMlHvBrbFRRKaYdqJh5xepnVClqnk9pPd83TTnItmfZyIsMP_RImoDyF1xaqhdzuVDHyfQ0owYdo6bEMd2K_iX6e4PIXl8Vz6E8PynE7pd5I9D0FO3LNEtao6eXikBmvYgZ2v8kI1tifQkumDXuGqEzW8wHgoXVM_V6SVQGYq76Zy9lX0?width=1024&height=512&cropmode=none" />
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/Cover.png?raw=true" />
   </a>
 </div>
 
