@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF75A&center=true&vCenter=true&width=435&lines=Be+like+terminal..,;Able+to+do+anything..,;But+under+the+limit..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=I'm+in+searching+for+a+mature+woman;not+a+bitch+who+had+lots+of+husbands" alt="Typing SVG" /></a>
 </p>
 
 ---
