@@ -1,3 +1,16 @@
+<h1 align="center">I'm Prakash Ravichandran 🔱</h1>
+<h3 align="center">An Enthusiastic Frontend Maestro Hailing from the Vibrant Land of India ✨</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/PrakasRavichandran](https://github.com/PrakasRavichandran)
+
+- 📝 I regularly write articles on [https://blog-prakash.netlify.app/](https://blog-prakash.netlify.app/)
+
+- 📄 Know about my experiences [https://prakashravichandran.com/](https://prakashravichandran.com/)
+
+- ⚡ Fun fact **"Me? Oh, my path ahead is as unpredictable as the tides. Can't rightly say where I'll be pointin' me compass next 🧭"**
+  
+---
+
 <div id="header" align="center">
     <a href="https://prakashravichandran.com/">
 <img src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/Cover.png?raw=true" />
@@ -55,9 +68,8 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
 ### Contact 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/prakashravichandran10/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" width="30"/></a>
-&ensp;<a href="https://instagram.com/prakasravichandran"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" width="30"/></a>
-
+<a href="https://www.linkedin.com/in/prakashravichandran10/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="Linkedin" width="30"/></a>
+&ensp;<a href="https://instagram.com/prakasravichandran"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" title="Instagram" width="30"/></a>
 </p>
 
 
