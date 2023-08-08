@@ -1,5 +1,5 @@
 <h1 align="center">I'm Prakash Ravichandran 🔱</h1>
-<h3 align="center">An Enthusiastic Frontend Maestro Hailing from the Vibrant Land of India ✨</h3>
+<h3 align="center">An Enthusiastic Full Stack and Embedded Maestro Hailing from the Vibrant Land of India ✨</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrakasRavichandran](https://github.com/PrakasRavichandran)
 
