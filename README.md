@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/PrakasRavichandran](https://github.com/PrakasRavichandran)
 - 📝 I regularly write articles on [https://blog-prakash.netlify.app/](https://blog-prakash.netlify.app/)
 - 📄 Know about my experiences [https://prakashravichandran.com/](https://prakashravichandran.com/)
-- ⚡ Fun fact: **"I cherish those who care, love, like, and respect me"**
+- ⚡ Fun fact: **"I once lost my ship but found it...eventually. Savvy?"**
 <br>
 
 <p align="center">
