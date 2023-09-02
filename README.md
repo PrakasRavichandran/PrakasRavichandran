@@ -1,7 +1,11 @@
+<div id="header" align="center">
+    <a href="https://prakashravichandran.com/">
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/Cover.png?raw=true" />
+  </a>
+</div>
+
 <em><h1 align="center">I'm Prakash Ravichandran 🔱</h1>
 <h3 align="center">An Enthusiastic Full Stack and Embedded Maestro Hailing from the Vibrant Land of India ✨</h3>
-
----
 
 - 🧞 I'm a Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development.
@@ -11,13 +15,6 @@
 - 📄 Know about my experiences [https://prakashravichandran.com/](https://prakashravichandran.com/)
 - ⚡ Fun fact: **"I cherish those who care, love, like, and respect me"**
 <br>
-
----
-<div id="header" align="center">
-    <a href="https://prakashravichandran.com/">
-<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/Cover.png?raw=true" />
-  </a>
-</div>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F70A&center=true&vCenter=true&width=435&lines=Design...Develop...Debug...Deploy..." alt="Typing SVG" /></a>
@@ -50,8 +47,9 @@
 href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Automatic-Attendance-System&icon_color=f34b7d&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62" href="https://github.com/PrakasRavichandran/repo-name"/><img  src="https://github-readme-stats.vercel.app/api/pin/?username=PrakasRavichandran&repo=Digital-Clock&icon_color=e44b23&show_owner=false&theme=transparent&text_color=FFFFFF&border_color=032F62"
 href="https://github.com/PrakasRavichandran/repo-name"/>
 </p>
-<br>
-<p align="center"> <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&unique={true|1|on|yes}" /></p>-->
+<br>-->
+
+<p align="center"> <img width="600" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&unique={true|1|on|yes}" /></p>
 
 
 
