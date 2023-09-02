@@ -7,9 +7,8 @@
 <em><h1 align="center">I'm Prakash Ravichandran 🔱</h1>
 <h3 align="center">An Enthusiastic Full Stack and Embedded Maestro Hailing from the Vibrant Land of India ✨</h3>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development.
-- 👯 I’m looking to collaborate with Fullstack Web and UI/UX projects.
+- 🔭 I’m currently working on Embedded System & Automation
+- 👯 I’m looking to collaborate with Electronics Web and UI/UX projects.
 - 👨‍💻 All of my projects are available at [https://github.com/PrakasRavichandran](https://github.com/PrakasRavichandran)
 - 📝 I regularly write articles on [https://blog-prakash.netlify.app/](https://blog-prakash.netlify.app/)
 - 📄 Know about my experiences [https://prakashravichandran.com/](https://prakashravichandran.com/)
