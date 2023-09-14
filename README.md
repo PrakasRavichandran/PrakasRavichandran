@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/PrakasRavichandran](https://github.com/PrakasRavichandran)
 - 📝 I regularly write articles on [https://blog-prakash.netlify.app/](https://blog-prakash.netlify.app/)
 - 📄 Know about my experiences [https://prakashravichandran.com/](https://prakashravichandran.com/)
+- ✨Know about my personal [https://prakashravichandrann.github.io/Personal-Blog/](https://prakashravichandrann.github.io/Personal-Blog/)
 - ⚡ Fun fact: **"I once lost my ship but found it...eventually. Savvy?"**
 <br>
 
@@ -73,3 +74,6 @@ href="https://github.com/PrakasRavichandran/repo-name"/>
 </em>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
+</p>
