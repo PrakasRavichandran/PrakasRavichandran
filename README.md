@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <a href="https://prakashravichandran.com/">
-<img src="./Cover.svg" />
+<img src="./header.svg" alt="Prakash">
   </a>
 </div>
 
