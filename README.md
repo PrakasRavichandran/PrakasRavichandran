@@ -11,9 +11,9 @@
         <tr><td>🎒 <b>School</b></td><td><a href="https://krct.ac.in/about.php?cat=1&id=46">KRCT</a></td></tr>
         <tr><td>🌐 <b>Domain</b></td><td><a href="https://prakashravichandran.com">prakash.com</a></td></tr>
         <tr><td>💫 <b>Focus On</b></td><td>TANSIM REMS project</td></tr>
-        <tr><td>🧰 <b>Toolkit</b></td><td>View my all tools here 👉🏽 <a href="https://prakashravichandran.com/#skills"> Toolkit </a></td></tr>
-        <tr><td>🍃 <b>Reach</b></td><td>View my dairy 👉🏽 <a href="https://prakashdairies.netlify.app/"> Prakash Dairies</a></td></tr>
-        <tr><td>📄 <b>Blog</b></td><td>View my blog here 👉🏽 <a href="https://blog-prakash.netlify.app/"> PrakasHub</a></td></tr>
+        <tr><td>🧰 <b>Toolkit</b></td><td> <a href="https://prakashravichandran.com/#skills"> Toolkit </a></td></tr>
+        <tr><td>🍃 <b>Dairy</b></td><td> <a href="https://prakashdairies.netlify.app/"> Prakash Dairies</a></td></tr>
+        <tr><td>📄 <b>Blog</b></td><td> <a href="https://blog-prakash.netlify.app/"> PrakasHub</a></td></tr>
         <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering |  Peace | Loneliness</td></tr>
         <tr><td>💖 <b>Hobbies</b></td><td>Watching Movies | Listening to Music & Dancing </td></tr>
         <tr><td>⚡ <b>Fun fact</b></td><td>I'm setting sail for new heights on the high seas of life</td></tr>
