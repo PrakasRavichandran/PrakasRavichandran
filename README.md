@@ -39,12 +39,12 @@
 
 <div align="center">
 
-| Task | Period | Count |
+| Task | Count | Period |
 |---|---|---|
-|[![Water](https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/water.png?raw=true "Wat" {width=40px height=400px})<br />Drinking water]()|per Day|3 litres|
-|[![Gym](https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/gym.png?raw=true)<br />Pushups]()|per Day|100|
-|[![Blog](https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/blog.png?raw=true)<br />Blog Writing]()|per Week|min 2|
-|[![Book](https://github.com/PrakasRavichandran/PrakasRavichandran/blob/main/logo/book.png?raw=true)<br />Book Reading]()|per Day|5 pages|
+|Drinking water|3 litres|per Day|
+|Pushups|100|per Day|
+|Blog Writing|min 2|per Week|
+|Book Reading|5 pages|per Day|
 
 </div>
 
