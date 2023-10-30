@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./hero.svg" alt="Prakash" href="https://prakashravichandran.com/">
+  <img src="./gitban.svg" alt="Prakash" href="https://prakashravichandran.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F730&random=false&width=435&lines=I+have+one+power%2C+I+never+give+up" alt="Typing SVG" />
 </div>
 <br>
@@ -46,9 +46,12 @@
 |Blog Writing|min 2|per Week|
 |Book Reading|5 pages|per Day|
 
-</div>
+</div><br>
 
-<img src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" width="40"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.instagram.com/prakashravichandrann/">reach out</a> </b> 😊 💖</em>
+
+---
+
+<img src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" width="40"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.instagram.com/prakashravichandrann/">reach out</a> </b> 😊 💖</em><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
 
