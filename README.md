@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="./gitban.svg" alt="Prakash" href="https://prakashravichandran.com/">
+  <img src="./Git.svg" alt="Prakash" href="https://prakashravichandran.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F730&random=false&width=435&lines=I+have+one+power%2C+I+never+give+up" alt="Typing SVG" />
 </div>
 <br>
