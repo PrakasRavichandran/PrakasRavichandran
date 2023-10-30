@@ -45,6 +45,7 @@
 |Pushups|100|per Day|
 |Blog Writing|min 2|per Week|
 |Book Reading|5 pages|per Day|
+|Don't Use Social Media|6 months|Until Birthday|
 
 </div><br>
 
