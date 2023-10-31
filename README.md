@@ -33,15 +33,24 @@
   <br>
 </p>
 
-<!--<div align="center">
-  <img hight="200" width="300" align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">      
-</div><br><br>-->
+
+ <div align="center">
+    <img align="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100" />
+ </div>
 
 <div align="center">
-    
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/music.gif" width="150" />
+  </a>
 
-</div>
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+  </a>
+
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/music.gif" width="150" />
+  </a>
+</div><br><br>
 
 <div align="center">
 
