@@ -33,10 +33,15 @@
   <br>
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img hight="200" width="300" align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true">      
-</div><br><br>
+</div><br><br>-->
 
+<div align="center">
+    
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+
+</div>
 
 <div align="center">
 
