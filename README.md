@@ -39,17 +39,9 @@
  </div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/music.gif" width="150" />
-  </a>
 
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-  </a>
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/music.gif" width="150" />
-  </a>
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=12121200&interchange=false)
+   
 </div><br><br>
 
 <div align="center">
