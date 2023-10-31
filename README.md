@@ -36,9 +36,6 @@
 
  <div align="center">
     <img align="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100" />
- </div>
-
-<div align="center">
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=12121200&interchange=false)
    
