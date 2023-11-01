@@ -1,4 +1,4 @@
-<p align="right">
+<p align="center">
  <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
 </p>
 <div id="header" align="center">
@@ -45,19 +45,53 @@
    
 </div><br><br>
 
-<img align="right" height="225" width="400" src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif">  
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="Your Image">
+    </td>
+    <td width="50%">
+      <table>
+        <tr>
+          <th>Task</th>
+          <th>Count</th>
+          <th>Period</th>
+        </tr>
+        <tr>
+          <td>Drinking Water</td>
+          <td>3 litres</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Pushups</td>
+          <td>100</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Meditation</td>
+          <td>15 minutes</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Blog Writing</td>
+          <td>min 2</td>
+          <td>per Week</td>
+        </tr>
+        <tr>
+          <td>Book Reading</td>
+          <td>5 pages</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Don't Use Social Media</td>
+          <td>6 months</td>
+          <td>Until Birthday</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-
-| Task | Count | Period |
-|---|---|---|
-|Drinking water|3 litres|per Day|
-|Pushups|100|per Day|
-|Blog Writing|min 2|per Week|
-|Book Reading|5 pages|per Day|
-|Don't Use Social Media|6 months|Until Birthday|
-
-</p><br><br>
 
 ---
 
