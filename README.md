@@ -45,7 +45,7 @@
    
 </div><br><br>
 
-<img align="right" height="225" width="500" src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif">  
+<img align="right" height="225" width="400" src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif">  
 
 <p align="left">
 
