@@ -1,3 +1,6 @@
+<p align="right">
+ <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
+</p>
 <div id="header" align="center">
 <img src="./Git.svg" alt="Prakash" href="https://prakashravichandran.com/">
 <img src="https://readme-typing-svg.herokuapp.com?font=Qwigley&size=35&pause=1000&color=00FF17&center=true&vCenter=true&random=false&width=435&lines=With+great+power+comes+great+responsibility" alt="Typing SVG"/>
@@ -21,9 +24,10 @@
     </table>
     
 <br>
-<p align="center">
- <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
-</p><br>
+<div align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRxcmFjOGxyM3NrZHlzbXJjcXFxcTVieGI4d3Fwam1vdHN3anBwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY93u9tQbybks/giphy.gif">
+</div>    
+<br><br>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&count_private=true&theme=shadow_green&hide_border=false&hide=contribs&bg_color=00000000">
@@ -41,7 +45,9 @@
    
 </div><br><br>
 
-<div align="center">
+<img align="right" height="225" width="500" src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif">  
+
+<p align="left">
 
 | Task | Count | Period |
 |---|---|---|
@@ -51,13 +57,14 @@
 |Book Reading|5 pages|per Day|
 |Don't Use Social Media|6 months|Until Birthday|
 
-</div><br>
-
+</p><br><br>
 
 ---
 
 <img src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" width="40"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.instagram.com/prakashravichandrann/">reach out</a> </b> 😊 💖</em><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
+
+
 
 
