@@ -36,19 +36,35 @@
   <br>
   <br>
 </p>
+<br><br>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img allign="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <img allign="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+          </td>
+          <td>
+              <img allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&width=400&count=2&unique=1&utm_source=2b3m26">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
- <div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100" />
-
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=default&show_offline=false&background_color=12121200&interchange=false)
-   
-</div><br><br>
 
 <table>
   <tr>
     <td width="50%">
-      <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="Your Image">
+      <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="cap">
     </td>
     <td width="50%">
       <table>
