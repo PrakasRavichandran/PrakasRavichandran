@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
  <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
 </p>
 <div id="header" align="center">
@@ -58,7 +58,7 @@
       </table>
     </td>
   </tr>
-</table>
+</table><br><br>
 
 
 <table>
