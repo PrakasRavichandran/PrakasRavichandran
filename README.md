@@ -51,7 +51,7 @@
             <img allign="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
           </td>
           <td>
-              <img allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&width=400&count=5&unique=1&utm_source=2b3m26">
+              <img allign="left" src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&width=400&count=6&unique=1&utm_source=2b3m26">
           </td>
         </tr>
       </table>
