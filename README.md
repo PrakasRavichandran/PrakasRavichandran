@@ -16,6 +16,7 @@
         <tr><td>💫 <b>Focus On</b></td><td>TANSIM REMS project</td></tr>
         <tr><td>🧰 <b>Toolkit</b></td><td> <a href="https://prakashravichandran.com/#skills"> Toolkit </a></td></tr>
         <tr><td>📄 <b>Blog</b></td><td> <a href="https://blog-prakash.netlify.app/"> PrakasHub</a></td></tr>
+        <tr><td>📄 <b>Dairy</b></td><td> <a href="https://prakashdairies.netlify.app/"> PrakashDairies</a></td></tr>
         <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering |  Peace | Loneliness</td></tr>
         <tr><td>💖 <b>Hobbies</b></td><td>Watching Movies | Listening to Music & Dancing </td></tr>
         <tr><td>⚡ <b>Fun fact</b></td><td>I'm setting sail for new heights on the high seas of life</td></tr>
