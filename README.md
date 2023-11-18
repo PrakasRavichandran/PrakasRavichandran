@@ -9,7 +9,7 @@
     <table align="center">
         <tr><td>⚜ <b>Name</b></td><td>Prakash</td></tr>
         <tr><td>💼 <b>Career</b></td><td>Project Management | Embedded Systems |  Full Stack</td></tr>
-        <tr><td>👔 <b>Campus</b></td><td><a href="https://www.unibose.com">Unibose</a></td></tr>
+        <tr><td>👔 <b>Campus</b></td><td><a href="https://www.hcltech.com/">HCL</a></td></tr>
         <tr><td>🎓 <b>Course</b></td><td><a href="https://blog-pink.netlify.app/">BE EEE</a></td></tr>
         <tr><td>🎒 <b>School</b></td><td><a href="https://krct.ac.in/about.php?cat=1&id=46">KRCT</a></td></tr>
         <tr><td>🌐 <b>Domain</b></td><td><a href="https://prakashravichandran.com">prakash.com</a></td></tr>
