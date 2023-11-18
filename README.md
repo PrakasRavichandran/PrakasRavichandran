@@ -2,7 +2,7 @@
  <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
 </p>
 <div id="header" align="center">
-<img src="./Git.svg" alt="Prakash" href="https://prakashravichandran.com/">
+<img src="./cover.svg" alt="Prakash" href="https://prakashravichandran.com/">
 <img src="https://readme-typing-svg.herokuapp.com?font=Qwigley&size=35&pause=1000&color=00FF17&center=true&vCenter=true&random=false&width=435&lines=With+great+power+comes+great+responsibility" alt="Typing SVG"/>
 </div>
 <br>
