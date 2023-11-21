@@ -16,7 +16,6 @@
         <tr><td>💫 <b>Focus On</b></td><td>I-Check</td></tr>
         <tr><td>🧰 <b>Toolkit</b></td><td> <a href="https://prakashravichandran.com/#skills"> Toolkit </a></td></tr>
         <tr><td>📄 <b>Blog</b></td><td> <a href="https://blog-prakash.netlify.app/"> PrakasHub</a></td></tr>
-        <tr><td>📄 <b>Dairy</b></td><td> <a href="https://prakashdairies.netlify.app/"> PrakashDairies</a></td></tr>
         <tr><td>🧙 <b>Support</b></td><td>Open Source | Volunteering |  Peace | Loneliness</td></tr>
         <tr><td>💖 <b>Hobbies</b></td><td>Watching Movies | Listening to Music & Dancing </td></tr>
         <tr><td>⚡ <b>Fun fact</b></td><td>I'm setting sail for new heights on the high seas of life</td></tr>
@@ -24,9 +23,9 @@
     </table>
     
 <br>
-<div align="center">
+<!--<div align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRxcmFjOGxyM3NrZHlzbXJjcXFxcTVieGI4d3Fwam1vdHN3anBwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rY93u9tQbybks/giphy.gif">
-</div>    
+</div>-->    
 <br><br>
 
 <p align="center">
@@ -38,7 +37,7 @@
 </p>
 <br><br>
 
-<table align="center">
+<!--<table align="center">
   <tr>
     <td align="center">
       <img allign="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100"/>
@@ -106,7 +105,7 @@
       </table>
     </td>
   </tr>
-</table>
+</table>-->
 
 
 ---
