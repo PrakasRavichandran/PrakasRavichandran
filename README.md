@@ -105,7 +105,7 @@
 </table>-->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&pause=1000&color=45F700&center=true&vCenter=true&random=false&width=435&lines=Time%3A+the+balm+for+healing+wounds"/>
+<img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=25&pause=1000&color=45F700&center=true&vCenter=true&random=false&width=435&lines=Time%3A+the+balm+for+healing+wounds"/>
 </p>
 
 ---
