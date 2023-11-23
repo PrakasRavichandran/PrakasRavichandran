@@ -1,10 +1,9 @@
+<div id="header" align="center">
+<img src="./cov.svg" alt="Prakash" href="https://prakashravichandran.com/">
+</div>
 <p align="center">
  <img src="https://profile-counter.glitch.me/PrakasRavichandran/count.svg?bgcolor=FFFFFF&color=00F70A"/>
 </p>
-<div id="header" align="center">
-<img src="./cov.svg" alt="Prakash" href="https://prakashravichandran.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&pause=1000&color=45F700&center=true&vCenter=true&random=false&width=435&lines=Time%3A+the+balm+for+healing+wounds" alt="Typing SVG" />
-</div>
 <br>
     <table align="center">
         <tr><td>⚜ <b>Name</b></td><td>Prakash</td></tr>
@@ -107,6 +106,9 @@
   </tr>
 </table>-->
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=30&pause=1000&color=45F700&center=true&vCenter=true&random=false&width=435&lines=Time%3A+the+balm+for+healing+wounds"/>
+</p>
 
 ---
 
