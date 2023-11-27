@@ -34,7 +34,7 @@
 </p>
 <br><br>
 
-<!--<table align="center">
+<table align="center">
   <tr>
     <td align="center">
       <img allign="center" src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="100"/>
@@ -57,7 +57,7 @@
 </table><br><br>
 
 
-<table>
+<!--<table>
   <tr>
     <td width="50%">
       <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="cap">
@@ -106,7 +106,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Smooch+Sans&size=25&pause=1000&color=45F700&center=true&vCenter=true&random=false&width=435&lines=Time%3A+the+balm+for+healing+wounds"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Ephesis&size=30&pause=1000&color=00F726&center=true&random=false&width=435&lines=With+great+power+comes+great+responsibility"/>
 </p>
 
 <div id="header" align="center">
