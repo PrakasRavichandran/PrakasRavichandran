@@ -95,8 +95,13 @@
           <td>5 pages</td>
           <td>per Day</td>
         </tr>
+       <tr>
+          <td>Hand Gripper</td>
+          <td>200</td>
+          <td>per Day</td>
+        </tr>
         <tr>
-          <td>Don't Use Social Media</td>
+          <td>Limit Social Media Use</td>
           <td>6 months</td>
           <td>Until Birthday</td>
         </tr>
