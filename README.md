@@ -58,7 +58,7 @@
 </table><br><br>
 
 
-<!--<table>
+<table>
   <tr>
     <td width="50%">
       <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="cap">
@@ -103,7 +103,7 @@
       </table>
     </td>
   </tr>
-</table>-->
+</table>
 
 
 <p align="center">
