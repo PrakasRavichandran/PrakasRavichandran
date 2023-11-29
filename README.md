@@ -115,9 +115,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ephesis&size=30&pause=1000&color=00F726&center=true&random=false&width=435&lines=With+great+power+comes+great+responsibility"/>
 </p>
 
-<div id="header" align="center">
+<!--<div id="header" align="center">
   <img src="./flow.svg" alt="Prakash" href="https://prakashravichandran.com/">
-</div>
+</div>-->
 
 ---
 
