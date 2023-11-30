@@ -1,4 +1,5 @@
 <div id="header" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=03F700&center=true&random=false&width=435&lines=I've+made+mistakes%2C+but+I+won't+let+them+define+who+I+am" alt="Typing SVG" /></a>
 <img src="./cov.svg" alt="Prakash" href="https://prakashravichandran.com/">
 </div>
 <p align="center">
