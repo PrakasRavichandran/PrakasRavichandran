@@ -10,7 +10,7 @@
         <tr><td>💼 <b>Career</b></td><td>Project Management | Embedded Systems |  Full Stack</td></tr>
         <tr><td>🎓 <b>Course</b></td><td><a href="https://blog-pink.netlify.app/">BE EEE</a></td></tr>
         <tr><td>🎒 <b>School</b></td><td><a href="https://krct.ac.in/about.php?cat=1&id=46">KRCT</a></td></tr>
-        <tr><td>🌐 <b>Domain</b></td><td><a href="https://prakashravichandran.com">prakash.com</a></td></tr>
+        <tr><td>🌐 <b>Domain</b></td><td><a href="https://prakasravichandran.github.io/">prakash.com</a></td></tr>
         <tr><td>🧰 <b>Toolkit</b></td><td> <a href="https://prakashravichandran.com/#skills"> Toolkit </a></td></tr>
         <tr><td>📄 <b>Blog</b></td><td> <a href="https://blog-prakash.netlify.app/"> PrakasHub</a></td></tr>
         <tr><td>📓 <b>Dairy</b></td><td> <a href="https://prakashdairies.netlify.app/"> PrakashDairies</a></td></tr>
