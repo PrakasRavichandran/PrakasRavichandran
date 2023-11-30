@@ -132,5 +132,6 @@
  <a href="https://linkedin.com/in/in/prakashravichandran10" target="blank"><img align="center" src="./logo/lin.svg" alt="in/prakashravichandran10" height="30" width="40" /></a>
  <a href="https://figma.com/@prakashdesigns" target="blank"><img align="center" src="./logo/fig.svg" alt="prakashravichandrann" height="30" width="40" /></a>
  <a href="https://instagram.com/prakashravichandrann" target="blank"><img align="center" src="./logo/ins.svg" alt="prakashravichandrann" height="30" width="40" /></a>
+ <a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="prakashravichandrann" height="30" width="40" /></a>
 </p>
 
