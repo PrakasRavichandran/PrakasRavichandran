@@ -126,7 +126,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" >
 
-<h3>For productivity reasons, I closed my social media accounts</h3>
+<p align="center"> For productivity reasons, I closed my social media accounts</p>
 
 <p align="center">
  <a href="https://linkedin.com/in/in/prakashravichandran10" target="blank"><img align="center" src="./logo/lin.svg" alt="in/prakashravichandran10" height="30" width="40" /></a>
