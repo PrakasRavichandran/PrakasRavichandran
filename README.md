@@ -101,11 +101,6 @@
           <td>200</td>
           <td>per Day</td>
         </tr>
-        <tr>
-          <td>Limit Social Media Use</td>
-          <td>6 months</td>
-          <td>Until Birthday</td>
-        </tr>
       </table>
     </td>
   </tr>
