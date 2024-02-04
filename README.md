@@ -146,6 +146,8 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="supun nanayakkara" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun nanayakkara" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/PrakasRavichandran/PrakasRavichandran/6a3a11c5752fc7486ef93ea7647b439b9fbf9dac/logo/fig.svg?token=AUO3S5TCQMM7ARYBNBIX5RLFX7B7M" alt="supun nanayakkara" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/PrakasRavichandran/PrakasRavichandran/6a3a11c5752fc7486ef93ea7647b439b9fbf9dac/logo/blog.svg?token=AUO3S5QQSUXUZNVG465EGPDFX7B7Y" alt="supun nanayakkara" height="40" width="40" /></a>
 </p>
 <br>
 
