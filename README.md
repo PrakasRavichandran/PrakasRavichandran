@@ -126,11 +126,11 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <table border="1" align="center">
   <tr>
     <td style="width: auto;">
-      <img src="https://m.media-amazon.com/images/I/813RHV5Qw-L._AC_UF1000,1000_QL80_.jpg" width="250" height="30%" />
+      <img src="https://m.media-amazon.com/images/I/813RHV5Qw-L._AC_UF1000,1000_QL80_.jpg" width="200" height="30%" />
        <h3 align="center">📕Book</h3>
     </td>
     <td style="width: auto;">
-      <img src="https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" width="250" height="30%" />
+      <img src="https://image.tmdb.org/t/p/w342/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" width="200" height="30%" />
        <h3 align="center">🍿Movie</h3>
     </td>
   </tr>
@@ -140,7 +140,7 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 
 <div align="center">
   <div>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="50%" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="40%" />
     <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="10%" />
   </div>
 </div>
