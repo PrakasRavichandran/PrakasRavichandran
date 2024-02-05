@@ -41,37 +41,37 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <h3>💻 Tech Toolbox </h3>
 <p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
 
-- Frontend
+<h4>Frontend</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,vite,ts,js,react,nextjs,redux,tailwind,svelte,md" />
   </a>
-</p>
+</p><br>
 
-- Backend
+<h4>Backend</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,py," />
   </a>
-</p>
+</p><br>
 
-- Embedded Systems
+<h4>Embedded Systems</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" />
   </a>
-</p>
+</p><br>
 
-- Database
+<h4>Database</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
-</p>
+</p><br>
 
-- Cloud Servers
+<h4>Cloud Servers</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=azure,aws,firebase,netlify,vercel" />
   </a>
-</p>
+</p><br>
 
-- Tools
+<h4>Tools</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=matlab,git,github,figma,idea,visualstudio,vscode" />
   </a>
