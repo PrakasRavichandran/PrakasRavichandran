@@ -1,4 +1,4 @@
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h3>A Little Bit of Me</h3>
 
 ```yaml
 name: Prakash
@@ -36,7 +36,9 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 
 <br>
 
-<h2> Languages and Tools </h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3> Tech Toolbox </h3>
 <p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
 
 - Frontend
@@ -74,10 +76,12 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
     <img src="https://skillicons.dev/icons?i=matlab,git,github,figma,idea,visualstudio,vscode" />
   </a>
 </p>
-<br>
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<h2>Trophy:</h2>
+<h3>Noteworthy Milestones</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -93,7 +97,7 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>GitHub Stats:</h2>
+<h3>Insights from GitHub</h3>
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"  width="150px" height="150px">
@@ -108,15 +112,17 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>Activity:</h2>
+<h3>Recent Ventures</h3>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150px" height="150px"></p>
 
 ![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-<h2>Recents:</h2>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<h3>Cultural Palette</h3>
+<br>
 <table border="1" align="center">
   <tr>
     <td style="width: auto;">
@@ -139,19 +145,18 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
   </div>
 </div>
 
+<br><br>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br><br><br><br>
-<h2>Connect with me:</h2>
+<h3>Let's Collaborate</h3><br>
 <p align="left">
-<a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="supun-nanayakkara" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="supun nanayakkara" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun nanayakkara" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="./logo/fig.svg" alt="supun nanayakkara" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="./logo/blog.svg?token=AUO3S5QQSUXUZNVG465EGPDFX7B7Y" alt="supun nanayakkara" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/prakashravichan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>
 </p>
 <br><br>
 
