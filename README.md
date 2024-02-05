@@ -36,7 +36,8 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 
 <br>
 
-<h2>Languages and Tools:</h2>
+<h2> Languages and Tools </h2>
+<p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
 
 - Frontend
 <p align="left">
@@ -95,6 +96,7 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <h2>GitHub Stats:</h2>
 
 <div align="center">
+<img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"  width="150px" height="150px">
  
 ![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakasRavichandran\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
@@ -107,6 +109,8 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2>Activity:</h2>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150px" height="150px"></p>
 
 ![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
@@ -146,14 +150,12 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/blogger.svg" alt="supun nanayakkara" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun nanayakkara" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/PrakasRavichandran/PrakasRavichandran/6a3a11c5752fc7486ef93ea7647b439b9fbf9dac/logo/fig.svg?token=AUO3S5TCQMM7ARYBNBIX5RLFX7B7M" alt="supun nanayakkara" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/PrakasRavichandran/PrakasRavichandran/6a3a11c5752fc7486ef93ea7647b439b9fbf9dac/logo/blog.svg?token=AUO3S5QQSUXUZNVG465EGPDFX7B7Y" alt="supun nanayakkara" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="./logo/fig.svg" alt="supun nanayakkara" height="40" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="./logo/blog.svg?token=AUO3S5QQSUXUZNVG465EGPDFX7B7Y" alt="supun nanayakkara" height="40" width="40" /></a>
 </p>
-<br>
+<br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="right">
+<img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="100px" height="100px"><br> Created with 🧡 by <a href="http://prakashravichandran.netlify.app">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/> </p>
 
-<br>
-<p align="right" > Created with 🧡 by <a href="http://prakashravichandran.netlify.app">Prakash</a><br><br> <img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash" /> 
-</p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
