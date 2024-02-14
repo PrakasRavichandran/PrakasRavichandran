@@ -59,6 +59,12 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
   </a>
 </p><br>
 
+<h4>3D Modeling</h4>
+<p align="left">
+    <img src="./logo/solidworks.svg" width="60px" height="60px"/>
+  </a>
+</p><br>
+
 <h4>Database</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
