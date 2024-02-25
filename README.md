@@ -151,6 +151,15 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
   </table>
 <br><br>
 
+<table border="1" cellspacing="0" cellpadding="10" align="center">
+    <tr>
+        <td align="center">
+            <img src="./FoF.png" alt="friends of feelings book" width="200" height="300">
+            <h3>Writing 📝</h3>
+        </td>
+    </tr>
+</table>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3>🤝 Let's Collaborate</h3><br>
