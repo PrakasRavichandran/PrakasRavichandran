@@ -161,6 +161,7 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <div></div>
 <p align="left">
 <a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;  
 </p>
 <br><br>
 
