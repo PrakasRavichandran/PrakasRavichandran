@@ -2,15 +2,11 @@
 
 ```yaml
 name: Prakash
-located_in: Chennai, India
-current_job: Embedded Engineer
 education:
   [
     "Self-Taught Developer and Designer",
     "Bachelor's in Electronics and Electrical",
   ]
-company: Unibose
-
 fields_of_interests:
   [
     "Web Development",
@@ -24,9 +20,9 @@ technical_background:
   [
     "Full Stack Developer"
     "Embedded Design Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - Software Developer",
+    "Data Science & Machine Learning in Python",
+    "Internet Of Things",
+    "Software Development",
   ]
   
 currently_learning: ["LoRa , FreeRTOS, and Atmel Studio"]
@@ -154,7 +150,7 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <table border="1" cellspacing="0" cellpadding="10" align="center">
     <tr>
         <td align="center">
-            <img src="./FoF.png" alt="friends of feelings book" width="200" height="300">
+            <img src="./FoF.png" alt="friends of feelings book" width="250" height="300">
             <h3>Writing 📝</h3>
         </td>
     </tr>
@@ -165,16 +161,11 @@ hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
 <h3>🤝 Let's Collaborate</h3><br>
 <div></div>
 <p align="left">
-<a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/prakashravichan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>
 </p>
 <br><br>
 
 <p align="right">
-<img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="150px" height="150px"><br> Created with 🧡 by <a href="http://prakashravichandran.netlify.app">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/> </p>
+<img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="150px" height="150px"><br> Created with 🧡 by <a href="https://www.instagram.com/prakashravichandrann/">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
