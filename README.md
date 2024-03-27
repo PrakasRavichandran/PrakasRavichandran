@@ -116,7 +116,12 @@ motto: ["Keep it simple and stupid ✨"]
 
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+
+<h3>🧑🏼‍💻 Stackoverflow State</h3>
+<p  align="center">
+  <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
+</p><br><br>
 
 <h3>🚀 Recent Ventures</h3>
 <p  align="center">
