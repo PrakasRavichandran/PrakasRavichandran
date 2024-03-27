@@ -132,12 +132,11 @@ motto: ["Keep it simple and stupid ✨"]
 
 <h3>🌈 Cultural Palette</h3>
 <br>
-<table border=1 align="center" style="width: 80%; border-radius: 10px;">
+<table border=1 align="left" style="width: 80%; border-radius: 10px;">
     <tr>
       <td colspan=2 align="center">
         <div>
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="50%" />
-          <img src="https://raw.githubusercontent.com/GabrielGuedess/GabrielGuedess/main/assets/images/spotify.gif" width="20%" />
+          <img src="https://prakash-spotify.vercel.app/api" width="75%" height="50%" />
        </div>
       </td>
     </tr>
@@ -154,7 +153,7 @@ motto: ["Keep it simple and stupid ✨"]
   </table>
 <br><br>
 
-<table border="1" cellspacing="0" cellpadding="10" align="center">
+<table border="1" cellspacing="0" cellpadding="10" align="right">
     <tr>
         <td align="center">
             <img src="./FoF.png" alt="friends of feelings book" width="250" height="300">
