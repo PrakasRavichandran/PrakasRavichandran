@@ -37,8 +37,6 @@ motto: ["Keep it simple and stupid ✨"]
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3>💻 Tech Toolbox </h3>
 <p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
 
@@ -85,9 +83,6 @@ motto: ["Keep it simple and stupid ✨"]
 </p>
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 <h3>🏆 Noteworthy Milestones</h3>
 
 <p align="center">
@@ -102,8 +97,6 @@ motto: ["Keep it simple and stupid ✨"]
  </div>
  <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <h3>📊 Insights from GitHub</h3>
 
 <div align="center">
@@ -116,8 +109,6 @@ motto: ["Keep it simple and stupid ✨"]
 
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
-
 <h3>🧑🏼‍💻 Stackoverflow State</h3>
 <p  align="center">
   <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
@@ -125,15 +116,11 @@ motto: ["Keep it simple and stupid ✨"]
 
 <h3>🚀 Recent Ventures</h3>
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150px" height="150px"></p>
 
 ![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<img src="https://raw.githubusercontent.com/PrakasRavichandran/PrakasRavichandran/output/snake.svg" alt="Snake animation" />
-
 <br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3>🌈 Cultural Palette</h3>
 <br>
@@ -166,11 +153,10 @@ motto: ["Keep it simple and stupid ✨"]
         </td>
     </tr>
 </table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3>🤝 Let's Collaborate</h3><br>
-<div></div>
 <p align="left">
 <a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
@@ -182,4 +168,4 @@ motto: ["Keep it simple and stupid ✨"]
 <p align="right">
 <img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="150px" height="150px"><br> Created with 🧡 by <a href="https://prakashravichandran.netlify.app/">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/><br><img src="https://img.shields.io/github/stars/PrakasRavichandran?label=Stars" alt="stars">  <img alt="followers" src="https://img.shields.io/github/followers/PrakasRavichandran?label=Followers&style=social"> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="20" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
