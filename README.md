@@ -44,37 +44,37 @@ motto: ["Keep it simple and stupid ✨"]
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,vite,ts,js,react,nextjs,redux,tailwind,svelte,md" />
   </a>
-</p><br>
+</p>
 
 <h4>Backend</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=nodejs,py," />
   </a>
-</p><br>
+</p>
 
 <h4>Embedded Systems</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" />
   </a>
-</p><br>
+</p>
 
 <h4>3D Modeling</h4>
 <p align="left">
     <img src="./logo/solidworks.svg" width="60px" height="60px"/>
   </a>
-</p><br>
+</p>
 
 <h4>Database</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
-</p><br>
+</p>
 
 <h4>Cloud Servers</h4>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=azure,aws,firebase,netlify,vercel" />
   </a>
-</p><br>
+</p>
 
 <h4>Tools</h4>
 <p align="left">
@@ -178,7 +178,7 @@ motto: ["Keep it simple and stupid ✨"]
  <h3> 📜 Daily Dose </h3>
 
 <p align="center">
-<img src="https://scontent.cdninstagram.com/v/t51.29350-15/419332439_1098897388210802_8401037038842740355_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=cds9-bDK09sAX-VWcZ3&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzI4MTUyNDY1MzY0NjYyNjY1OA%3D%3D.2-ccb7-5&oh=00_AfAK-A4iEV4TtRb1wJ88aeXv22scR8fGymvl_VmHbV9s-A&oe=660A6D68&_nc_sid=10d13b" width="25%" height="50%" />
+<img src="https://scontent.cdninstagram.com/v/t51.29350-15/419332439_1098897388210802_8401037038842740355_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=cds9-bDK09sAX-VWcZ3&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzI4MTUyNDY1MzY0NjYyNjY1OA%3D%3D.2-ccb7-5&oh=00_AfAK-A4iEV4TtRb1wJ88aeXv22scR8fGymvl_VmHbV9s-A&oe=660A6D68&_nc_sid=10d13b" width="50%" height="50%" />
   
 > "28-03-2024 From instagram "readers_tribe__"
 
