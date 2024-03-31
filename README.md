@@ -178,9 +178,10 @@ motto: ["Keep it simple and stupid ✨"]
  <h3> 📜 Daily Dose </h3>
 
 <p align="center">
-<img src="https://scontent.cdninstagram.com/v/t51.29350-15/419332439_1098897388210802_8401037038842740355_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_ohc=cds9-bDK09sAX-VWcZ3&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzI4MTUyNDY1MzY0NjYyNjY1OA%3D%3D.2-ccb7-5&oh=00_AfAK-A4iEV4TtRb1wJ88aeXv22scR8fGymvl_VmHbV9s-A&oe=660A6D68&_nc_sid=10d13b" width="50%" height="50%" />
   
-> "28-03-2024 From instagram "readers_tribe__"
+[![ThevarMahan](https://img.youtube.com/vi/sFbr8UV6b0A/0.jpg)](https://www.youtube.com/embed/sFbr8UV6b0A)
+ 
+> Whenever I feel overwhelmed in life and need to lighten the weight on my mind, I revisit this scene"
 
 </p>
 
