@@ -179,7 +179,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 <p align="center">
   
-[![ThevarMahan](https://img.youtube.com/vi/sFbr8UV6b0A/0.jpg)](https://www.youtube.com/embed/sFbr8UV6b0A)
+<a href="https://www.youtube.com/embed/sFbr8UV6b0A"> <img src="https://img.youtube.com/vi/sFbr8UV6b0A/0.jpg" height="50%" width="50%"> </a>
  
 > Whenever I feel overwhelmed in life and need to lighten the weight on my mind, I revisit this scene"
 
