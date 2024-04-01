@@ -1,4 +1,4 @@
-<h3>✨ A Little Bit of Me</h3>
+![image](https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/ba011f9c-4c86-416f-bbdd-cff1d67ef239)<h3>✨ A Little Bit of Me</h3>
 
 <img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" />
 
@@ -138,11 +138,11 @@ motto: ["Keep it simple and stupid ✨"]
             <h3>Writing 📝</h3>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://m.media-amazon.com/images/I/813RHV5Qw-L._AC_UF1000,1000_QL80_.jpg" width="200" height="30%" />
+         <img src="https://m.media-amazon.com/images/I/71dTY3dvAuL._AC_UF1000,1000_QL80_.jpg" width="200" height="30%" />
          <h3 align="center">📕Book</h3>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/uYIw5Jt4xkcjObDwJqcgeLFP042.jpg" width="200" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg" width="200" height="30%" />
        <h3 align="center">🍿Movie</h3>
       </td>
     </tr>
