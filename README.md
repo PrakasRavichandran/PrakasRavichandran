@@ -173,7 +173,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 <p align="center">
 
-<img src="https://instagram.fmaa10-1.fna.fbcdn.net/v/t51.29350-15/433132136_1606574566763942_6741655723315581664_n.jpg?stp=dst-jpg_e15_p480x480&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi44ODJ4MTU2OC5zZHIifQ&_nc_ht=instagram.fmaa10-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PE9ieLXRn14AX_Wtig-&edm=AI8qBrIBAAAA&ccb=7-5&ig_cache_key=MzMyNzMzMzQ2Mzc2MTY4NzMxNQ%3D%3D.2-ccb7-5&oh=00_AfAKy7k9hkXnOSq8scGvcOraCckS3XyiL4_9ZNl9KnDoQA&oe=66108334&_nc_sid=469e9a" height="25%" width="25%">
+<img src="https://instagram.fmaa10-1.fna.fbcdn.net/v/t39.30808-6/426176277_25516774397921797_79421272039077043_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=instagram.fmaa10-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=84uGVmFaKQ8AX_9bXRY&edm=AI8qBrIAAAAA&ccb=7-5&ig_cache_key=MzI5NzE5MTI5NjI2MDk2NjgwOQ%3D%3D.2-ccb7-5&oh=00_AfAjeb7l1uCaFGU1g0mXVsieG4HX6cT54XwRXLDuIOfTDw&oe=6610AAA8&_nc_sid=469e9a" height="50%" width="50%">
 
 </p>
 
