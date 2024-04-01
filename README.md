@@ -173,8 +173,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 <p align="center">
 
-> <b>Graduation Day 🎓</b><br>
-> இதுதான் கடைசி முறை என்று முன்பே தெரிந்திருந்தால் , இன்னும் ஓரிரு நிமிடங்கள் அதிகம் பேசி இருப்பேன் 🌹 💔
+<img src="https://instagram.fmaa10-1.fna.fbcdn.net/v/t51.29350-15/433132136_1606574566763942_6741655723315581664_n.jpg?stp=dst-jpg_e15_p480x480&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi44ODJ4MTU2OC5zZHIifQ&_nc_ht=instagram.fmaa10-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=PE9ieLXRn14AX_Wtig-&edm=AI8qBrIBAAAA&ccb=7-5&ig_cache_key=MzMyNzMzMzQ2Mzc2MTY4NzMxNQ%3D%3D.2-ccb7-5&oh=00_AfAKy7k9hkXnOSq8scGvcOraCckS3XyiL4_9ZNl9KnDoQA&oe=66108334&_nc_sid=469e9a" height="25%" width="25%">
 
 </p>
 
