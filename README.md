@@ -1,4 +1,4 @@
-![image](https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/ba011f9c-4c86-416f-bbdd-cff1d67ef239)<h3>✨ A Little Bit of Me</h3>
+<h3>✨ A Little Bit of Me</h3>
 
 <img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" />
 
