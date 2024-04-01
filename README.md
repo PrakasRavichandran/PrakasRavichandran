@@ -124,15 +124,19 @@ motto: ["Keep it simple and stupid ✨"]
 
 <h3>🌈 Cultural Palette</h3>
 <br>
-<table border=1 align="left" style="width: 80%; border-radius: 10px;">
+<table border=1 align="left" style="width: 100%; border-radius: 10px;">
     <tr>
-      <td colspan=2 align="center">
+      <td colspan=3 align="center">
         <div>
-          <img src="https://prakash-spotify.vercel.app/api" width="75%" height="50%" />
+          <img src="https://prakash-spotify.vercel.app/api" width="80%" height="25%" />
        </div>
       </td>
     </tr>
     <tr>
+      <td  align="center"padding-top:500;">
+         <img src="./FoF.png" alt="friends of feelings book" width="250" height="300">
+            <h3>Writing 📝</h3>
+      </td>
       <td  align="center"padding-top:500;">
          <img src="https://m.media-amazon.com/images/I/813RHV5Qw-L._AC_UF1000,1000_QL80_.jpg" width="200" height="30%" />
          <h3 align="center">📕Book</h3>
@@ -143,16 +147,6 @@ motto: ["Keep it simple and stupid ✨"]
       </td>
     </tr>
   </table>
-<br><br>
-
-<table border="1" cellspacing="0" cellpadding="10" align="right">
-    <tr>
-        <td align="center">
-            <img src="./FoF.png" alt="friends of feelings book" width="250" height="300">
-            <h3>Writing 📝</h3>
-        </td>
-    </tr>
-</table>
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
