@@ -178,10 +178,9 @@ motto: ["Keep it simple and stupid ✨"]
  <h3> 📜 Daily Dose </h3>
 
 <p align="center">
-  
-<a href="https://www.youtube.com/embed/sFbr8UV6b0A"> <img src="https://img.youtube.com/vi/sFbr8UV6b0A/0.jpg" height="50%" width="50%"> </a>
- 
-> Whenever I feel overwhelmed in life and need to lighten the weight on my mind, I revisit this scene"
+
+> <b>Graduation Day 🎓</b><br>
+> இதுதான் கடைசி முறை என்று முன்பே தெரிந்திருந்தால் , இன்னும் ஓரிரு நிமிடங்கள் அதிகம் பேசி இருப்பேன் 🌹 💔
 
 </p>
 
