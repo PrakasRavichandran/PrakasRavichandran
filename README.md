@@ -173,7 +173,20 @@ motto: ["Keep it simple and stupid ✨"]
 
 <p align="center">
 
-<img src="https://instagram.fmaa10-1.fna.fbcdn.net/v/t39.30808-6/426176277_25516774397921797_79421272039077043_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyIn0&_nc_ht=instagram.fmaa10-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=84uGVmFaKQ8AX_9bXRY&edm=AI8qBrIAAAAA&ccb=7-5&ig_cache_key=MzI5NzE5MTI5NjI2MDk2NjgwOQ%3D%3D.2-ccb7-5&oh=00_AfAjeb7l1uCaFGU1g0mXVsieG4HX6cT54XwRXLDuIOfTDw&oe=6610AAA8&_nc_sid=469e9a" height="50%" width="50%">
+<img src="./image 26.png" height="50%" width="50%">
 
 </p>
+
+
+## Daily Update: April 28, 2022
+
+🚀 **Major Leap:** Today, I achieved a significant milestone in my online presence by sharing an impactful post on Instagram titled "3M for Life MONEY MUSCLE MINDSET." This post showcases my unwavering dedication to wealth, physical strength, and mental resilience, marking a pivotal moment in my personal branding journey.
+
+🍫 **Sweet Childhood Memories:** Looking back on my childhood, one of my fondest memories is my love for chocolates. Despite rarely having the opportunity to indulge, the desire for them has stayed with me. Now, in the year 2024, with the substantial monthly income I've earned,  I huge money I earn every month , if I think i will make a chocolate store 😎
+
+💪 **Inner Strength:** Throughout my journey, I have consistently nurtured an unyielding belief in myself. Overcoming challenges and doubts, I have transformed from a scrawny child into an individual adorned with strong muscles, boasting impressive biceps and broad shoulders. This physical transformation perfectly mirrors the unwavering mental fortitude and determination that resides within me.
+
+💡 **Exceptional Achievement:** Today, I reached a remarkable milestone by successfully completing a highly complex industrial project all on my own within a mere 15 days. Normally, this project requires the collaboration of at least 24 individuals and spans over a course of three months. The fact that I accomplished it independently showcases not only my technical expertise but also my remarkable efficiency and resourcefulness. #HardWorkPaysOff 🌟
+
+Keep pushing forward, staying focused, and celebrating your accomplishments along the way. 
 
