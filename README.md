@@ -169,16 +169,9 @@ motto: ["Keep it simple and stupid ✨"]
 
 
 
- <h3> 📜 Daily Dose </h3>
+## 📜 Daily Update: April 28, 2022
 
-<p align="center">
-
-<img src="./image 26.png" height="50%" width="50%">
-
-</p>
-
-
-## Daily Update: April 28, 2022
+<div align="center"><img src="./logo/image 26.png" height="25%" width="25%"></div>
 
 🚀 **Major Leap:** Today, I achieved a significant milestone in my online presence by sharing an impactful post on Instagram titled "3M for Life MONEY MUSCLE MINDSET." This post showcases my unwavering dedication to wealth, physical strength, and mental resilience, marking a pivotal moment in my personal branding journey.
 
