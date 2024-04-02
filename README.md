@@ -134,7 +134,7 @@ motto: ["Keep it simple and stupid ✨"]
     </tr>
     <tr>
       <td  align="center"padding-top:500;">
-         <img src="./FoF.png" alt="friends of feelings book" width="200" height="30%">
+         <img src="./logo/bloggy.png" alt="friends of feelings book" width="200" height="30%">
             <h3>Writing 📝</h3>
       </td>
       <td  align="center"padding-top:500;">
