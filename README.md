@@ -124,7 +124,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 <h3>🌈 Cultural Palette</h3>
 <br>
-<table border=1 align="left" style="width: 100%; border-radius: 10px;">
+<table border=1 align="center" style="width: 100%; border-radius: 10px;">
     <tr>
       <td colspan=3 align="center">
         <div>
