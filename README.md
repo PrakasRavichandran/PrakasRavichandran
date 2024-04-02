@@ -128,7 +128,7 @@ motto: ["Keep it simple and stupid ✨"]
     <tr>
       <td colspan=3 align="center">
         <div>
-          <img src="https://prakash-spotify.vercel.app/api" width="80%" height="25%" />
+          <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="80%" height="25%" />
        </div>
       </td>
     </tr>
