@@ -24,6 +24,10 @@ technical_background:
   [
     "Full Stack Developer"
     "Embedded Design Architect",
+    "Electrical and Drives",
+    "Electronics and Communication",
+    "Control & Instrumentations",
+    "From Design to Installation",
     "Data Science & Machine Learning in Python",
     "Internet Of Things",
     "Software Development",
