@@ -138,7 +138,7 @@ motto: ["Keep it simple and stupid ✨"]
             <h3>Writing 📝</h3>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://m.media-amazon.com/images/I/71dTY3dvAuL._AC_UF1000,1000_QL80_.jpg" width="200" height="30%" />
+         <img src="https://m.media-amazon.com/images/I/51IpOCgYwQL._SY445_SX342_.jpg" width="200" height="30%" />
          <h3 align="center">📕Book</h3>
       </td>
       <td  align="center"padding-top:500;">
