@@ -175,9 +175,8 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## 📜 Daily Update: 
 
->Tone like me,  Thank You Bala Sir
+>Today, I had an interesting encounter with a beautiful girl who happens to be a computer science student. Seeing her coding projects made me feel insecure because she is incredibly talented while mine are still at a beginner level. Surprisingly, she complimented my library project and even asked me to teach her FlipJS. That made me feel more confident about my skills. However, after checking out her GitHub and Instagram, I realized how much more there is to learn. This humbled me and led me to stop using social media and instead focus on reading books and advancing my career and projects. I know you see this post, thanks for taking me to my track-back. I like your attitude,  that's truly inspiring. 🦋
 
-<div align="center"><img src="https://scontent.cdninstagram.com/v/t51.29350-15/435020913_916892036593469_8155436797823075987_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=R81WZ3GSyMAAX8NQ9sr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.cdninstagram.com&oh=00_AfBjN1w1cyjurCevy0BWsfHygL2wGj_rGRNrccZc49P8Sg&oe=6612AEC0" height="50%" width="50%"></div>
 
 
 
