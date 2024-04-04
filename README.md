@@ -175,8 +175,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## 📜 Daily Update: 
 
->Today, I had an interesting encounter with a beautiful girl who happens to be a computer science student. Seeing her coding projects made me feel insecure because she is incredibly talented while mine are still at a beginner level. Surprisingly, she complimented my library project and even asked me to teach her FlipJS. That made me feel more confident about my skills. However, after checking out her GitHub and Instagram, I realized how much more there is to learn. This humbled me and led me to stop using social media and instead focus on reading books and advancing my career and projects. I know you see this post, thanks for taking me to my track-back. I like your attitude,  that's truly inspiring. I was reminded of my college best friend's humble attitude  🦋
-
+<img src="https://scontent.cdninstagram.com/v/t39.30808-6/435362133_17878825539048093_9030950607580186941_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=uQ3Xf84Dm9wAb5W6qS3&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfBHdUdc1idGhykhsiQ1YpmTv5bv862tlvfNlYeO1w19Rg&oe=6613FD2A&_nc_sid=10d13b" height="25%" width="25%">
 
 
 
