@@ -171,7 +171,13 @@ motto: ["Keep it simple and stupid ✨"]
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
 
 
+## What I need today..,
 
+<img src="https://static.wikia.nocookie.net/jackiechanadventures/images/f/ff/Horse_Talisman.png/revision/latest?cb=20150501193058" height="10%" width="10%">
+
+>Horse Talisman - Healing Regeneration	
+
+<br>
 
 ## 📜 Daily Update: 
 
