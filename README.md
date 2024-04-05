@@ -146,7 +146,7 @@ motto: ["Keep it simple and stupid ✨"]
          <h3 align="center">📕Book</h3>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg" width="200" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/8PSYF0AtpLbSlTDneCUo7zP4qL1.jpg" width="200" height="30%" />
        <h3 align="center">🍿Movie</h3>
       </td>
     </tr>
