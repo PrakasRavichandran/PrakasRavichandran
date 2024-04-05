@@ -151,7 +151,54 @@ motto: ["Keep it simple and stupid ✨"]
       </td>
     </tr>
   </table>
-<br><br>
+<br><br><br><br>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="cap">
+    </td>
+    <td width="50%">
+      <table>
+        <tr>
+          <th>Task</th>
+          <th>Count</th>
+          <th>Period</th>
+        </tr>
+        <tr>
+          <td>Drinking Water</td>
+          <td>3 litres</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Pushups</td>
+          <td>100</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Meditation</td>
+          <td>15 minutes</td>
+          <td>per Day</td>
+        </tr>
+        <tr>
+          <td>Blog Writing</td>
+          <td>min 2</td>
+          <td>per Week</td>
+        </tr>
+        <tr>
+          <td>Book Reading</td>
+          <td>5 pages</td>
+          <td>per Day</td>
+        </tr>
+       <tr>
+          <td>Hand Gripper</td>
+          <td>200</td>
+          <td>per Day</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
 
@@ -182,6 +229,7 @@ motto: ["Keep it simple and stupid ✨"]
 ## 📜 Daily Update: 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcb1Xscysq59rkGGqIex7hHT7aioHOUHOLkixXyFBLg&s" height="35%" width="35%">
+
 
 
 
