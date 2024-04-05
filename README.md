@@ -173,15 +173,15 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## What I need today..,
 
-<img src="https://static.wikia.nocookie.net/jackiechanadventures/images/f/ff/Horse_Talisman.png/revision/latest?cb=20150501193058" height="10%" width="10%">
+<img src="https://static.wikia.nocookie.net/179e413a-cbce-4bcf-9d74-037bcd53f5c2/scale-to-width/755" height="25%" width="25%">
 
->Horse Talisman - Healing Regeneration	
+> Friend like Hermione Granger
 
 <br>
 
 ## 📜 Daily Update: 
 
-<img src="https://scontent.cdninstagram.com/v/t39.30808-6/435362133_17878825539048093_9030950607580186941_n.jpg?stp=dst-jpg_e15_fr_s1080x1080&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=uQ3Xf84Dm9wAb5W6qS3&edm=APs17CUAAAAA&ccb=7-5&oh=00_AfBHdUdc1idGhykhsiQ1YpmTv5bv862tlvfNlYeO1w19Rg&oe=6613FD2A&_nc_sid=10d13b" height="25%" width="25%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcb1Xscysq59rkGGqIex7hHT7aioHOUHOLkixXyFBLg&s" height="25%" width="25%">
 
 
 
