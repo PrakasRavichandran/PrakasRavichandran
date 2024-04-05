@@ -181,7 +181,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## 📜 Daily Update: 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcb1Xscysq59rkGGqIex7hHT7aioHOUHOLkixXyFBLg&s" height="25%" width="25%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcb1Xscysq59rkGGqIex7hHT7aioHOUHOLkixXyFBLg&s" height="35%" width="35%">
 
 
 
