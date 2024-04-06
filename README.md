@@ -220,15 +220,15 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## What I need today..,
 
-<img src="https://static.wikia.nocookie.net/179e413a-cbce-4bcf-9d74-037bcd53f5c2/scale-to-width/755" height="25%" width="25%">
+<img src="https://images.hindustantimes.com/auto/img/2022/02/02/1600x900/1000x-1_1622129455171_1643809722910.jpg" height="25%" width="25%">
 
-> Friend like Hermione Granger
+> royal blue rolls royce phantom
 
 <br>
 
 ## 📜 Daily Update: 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcb1Xscysq59rkGGqIex7hHT7aioHOUHOLkixXyFBLg&s" height="35%" width="35%">
+<img src="https://i.pinimg.com/236x/8b/af/e5/8bafe56fffefa9bcd4a56ebbc546a835.jpg" height="25%" width="25%">
 
 
 
