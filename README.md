@@ -228,10 +228,10 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## 📜 Daily Update: 
 
-> Me & senior manager on sight view:
-<img src="./logo/06.jpg" height="25%" width="25%">
+> Every Morning! I cook 5 eggs for breakfast. It looks like a pancake but tastes insane 🍳😋!
 
-> Exciting news! The robotic control system I designed is running flawlessly today. It efficiently manages 20 powerful hydraulic actuators and boasts 13 advanced features. With versatile power supply options (24V, 12V, 5V, and 3.3V) and an IP68 night vision camera and light, it's ready for any challenging race!. Today we gave the demo to a near by village in front of TANSIM officers.
+<img src="./logo/egg.jpg" height="25%" width="25%">
+
 
 
 
