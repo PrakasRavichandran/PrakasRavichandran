@@ -220,17 +220,17 @@ motto: ["Keep it simple and stupid ✨"]
 
 ## What I need today..,
 
-<img src="https://images.hindustantimes.com/auto/img/2022/02/02/1600x900/1000x-1_1622129455171_1643809722910.jpg" height="25%" width="25%">
+<img src="https://w0.peakpx.com/wallpaper/761/686/HD-wallpaper-custom-harley-davidson-custom-bike-chopper-harley.jpg" height="25%" width="25%">
 
-> royal blue rolls royce phantom
+> harley davidson cruiser
 
 <br>
 
 ## 📜 Daily Update: 
 
-> Every Morning! I cook 5 eggs for breakfast. It looks like a pancake but tastes insane 🍳😋!
+> Another great news! My ZONE 0 ATEX Camera System just became the world's 3rd was certified in Italy today 😁, and my patent was also successfully published. All credit goes to me! 🤣.  Thank you for always seeing me as a successful man, even when I doubted myself ✌.
 
-<img src="./logo/egg.jpg" height="25%" width="25%">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Robert-Downey-Jr-as-Tony-Stark-Peace-Sign.jpg" height="25%" width="25%">
 
 
 
