@@ -4,7 +4,7 @@
 
 ```yaml
 name: Prakash
-job: Robotics Embedded Engineer - Hardware & Software
+job: Manager - Electrical,  Robotics Embedded Engineer - Hardware & Software
 located: Chennai
 education:
   [
