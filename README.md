@@ -113,7 +113,7 @@ motto: ["Keep it simple and stupid ✨"]
 
 <br><br>
 
-<h3>🧑🏼‍💻 Stackoverflow State</h3>
+<h3>🐾 Stackoverflow State</h3>
 <p  align="center">
   <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
 </p><br><br>
@@ -146,7 +146,7 @@ motto: ["Keep it simple and stupid ✨"]
          <h3 align="center">📕Book</h3>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/wL6DTw3fNDXFnWRdZyvJWpGQaeY.jpg" width="200" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w185/3m1G9nkvUPSWJbPCUUdR7NDetxB.jpg" width="200" height="30%" />
        <h3 align="center">🍿Movie</h3>
       </td>
     </tr>
