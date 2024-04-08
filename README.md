@@ -230,7 +230,10 @@ motto: ["Keep it simple and stupid ✨"]
 
 > Another great news! My ZONE 0 ATEX Camera System just became the world's 3rd was certified in Italy today 😁, and my patent was also successfully published. All credit goes to me! 🤣.  Thank you for always seeing me as a successful man, even when I doubted myself ✌.
 
-<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Robert-Downey-Jr-as-Tony-Stark-Peace-Sign.jpg" height="25%" width="25%">
+<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Robert-Downey-Jr-as-Tony-Stark-Peace-Sign.jpg" height="25%" width="25%"><br><br>
+
+
+> Increment Day 🤑😎😍
 
 
 
