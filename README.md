@@ -4,6 +4,7 @@
 
 ```yaml
 name: Prakash
+best friend call me: MR. Stark
 job: Manager - Electrical,  Robotics Embedded Engineer - Hardware & Software
 located: Chennai
 education:
@@ -33,15 +34,17 @@ technical_background:
     "Software Development",
   ]
   
-currently_learning: ["LoRa , FreeRTOS, and Atmel Studio"]
+currently_learning: ["🛠 DIY Raspberry Pi Projects, 🤖 Robotics, and 🖼️ Computer Vision"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Music", "Cinema", "Boxing", "Art", "Writing"]
+hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Coding", "Writing ✍🏼"]
+challenge: ["Stop using social media for 1 year"]
 motto: ["Keep it simple and stupid ✨"]
+fun fact: ["나는 아이언 맨이다 ✌🏼"]
 ```
 
-<br>
 
-<h3>💻 Tech Toolbox </h3>
+<details>
+<summary>💻 Tech Toolbox </summary>
 <p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
 
 <h4>Frontend</h4>
@@ -85,50 +88,52 @@ motto: ["Keep it simple and stupid ✨"]
     <img src="https://skillicons.dev/icons?i=matlab,git,github,figma,idea,visualstudio,vscode" />
   </a>
 </p>
-<br><br>
+</details>
 
-<h3>🏆 Noteworthy Milestones</h3>
+
+<details>
+<summary>🏆 Noteworthy Milestones</summary>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrakasRavichandran&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=PrakasRavichandran&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PrakasRavichandran&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=PrakasRavichandran&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
- <br><br>
+ </details>
 
-<h3>📊 Insights from GitHub</h3>
 
-<div align="center">
- 
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakasRavichandran\&theme=midnight-purple\&bg_color=0D1117\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+<details>
+<summary>📊 Insights from GitHub </summary>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PrakasRavichandran&theme=midnight-purple&background=EB545400)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00">
 
-</div>
+![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=BA5F17&line=BA5F17&point=BA5F17&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  
+</p>
 
-<br><br>
+</details>
 
-<h3>🐾 Stackoverflow State</h3>
+
+<details>
+<summary>🐾 Stackoverflow State</summary>
 <p  align="center">
   <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
-</p><br><br>
+</p>
+</details>
 
-<h3>🚀 Recent Ventures</h3>
-<p  align="center">
-
-![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br><br>
 
 
 <h3>🌈 Cultural Palette</h3>
-<br>
-<table border=1 align="center" style="width: 100%; border-radius: 10px;">
+
+<table border=1 align="left" border-radius: 10px;">
     <tr>
       <td colspan=3 align="center">
         <div>
@@ -138,28 +143,22 @@ motto: ["Keep it simple and stupid ✨"]
     </tr>
     <tr>
       <td  align="center"padding-top:500;">
-         <img src="./logo/bloggy.png" alt="friends of feelings book" width="200" height="30%">
-            <h3>Writing 📝</h3>
+         <img src="./logo/bloggy.png" alt="friends of feelings book" width="100" height="50%"><br><br>
+            <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://m.media-amazon.com/images/I/51IpOCgYwQL._SY445_SX342_.jpg" width="200" height="30%" />
-         <h3 align="center">📕Book</h3>
+         <img src="https://m.media-amazon.com/images/I/51IpOCgYwQL._SY445_SX342_.jpg" width="100" height="30%" />
+         <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w185/3m1G9nkvUPSWJbPCUUdR7NDetxB.jpg" width="200" height="30%" />
-       <h3 align="center">🍿Movie</h3>
+         <img src="https://image.tmdb.org/t/p/w185/3m1G9nkvUPSWJbPCUUdR7NDetxB.jpg" width="100" height="30%" />
+       <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
   </table>
-<br><br><br><br>
+<br><br>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://media.tenor.com/bhFH48AS6s4AAAAC/captain-america-touch.gif" alt="cap">
-    </td>
-    <td width="50%">
-      <table>
+<table  align="right">
         <tr>
           <th>Task</th>
           <th>Count</th>
@@ -195,46 +194,23 @@ motto: ["Keep it simple and stupid ✨"]
           <td>200</td>
           <td>per Day</td>
         </tr>
-      </table>
-    </td>
-  </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
 
 
-<h3>🤝 Let's Collaborate</h3><br>
+<h3>🤝 Let's Collaborate</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="50" width="50" /></a>&nbsp;&nbsp;
-<a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://prakashravichandran.netlify.app/" target="blank"><img align="center" src="./logo/PRPR.svg" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
 
 <p align="right">
-<img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="150px" height="150px"><br> Created with 🧡 by <a href="https://prakashravichandran.netlify.app/">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/><br><img src="https://img.shields.io/github/stars/PrakasRavichandran?label=Stars" alt="stars">  <img alt="followers" src="https://img.shields.io/github/followers/PrakasRavichandran?label=Followers&style=social"> </p>
+<img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="130px" height="130px"><br> Created with 🧡 by <a href="https://prakashravichandran.netlify.app/">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/><br><img src="https://img.shields.io/github/stars/PrakasRavichandran?label=Stars" alt="stars">  <img alt="followers" src="https://img.shields.io/github/followers/PrakasRavichandran?label=Followers&style=social"> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
-
-
-## What I need today..,
-
-<img src="https://w0.peakpx.com/wallpaper/761/686/HD-wallpaper-custom-harley-davidson-custom-bike-chopper-harley.jpg" height="25%" width="25%">
-
-> harley davidson cruiser
-
-<br>
-
-## 📜 Daily Update: 
-
-> Another great news! My ZONE 0 ATEX Camera System just became the world's 3rd was certified in Italy today 😁, and my patent was also successfully published. All credit goes to me! 🤣.  Thank you for always seeing me as a successful man, even when I doubted myself ✌.
-
-<img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/07/Robert-Downey-Jr-as-Tony-Stark-Peace-Sign.jpg" height="25%" width="25%"><br><br>
-
-
-> Increment Day 🤑😎😍
-
-
-
-
