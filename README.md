@@ -127,13 +127,12 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <p  align="center">
   <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
 </p>
-</details>
-
+</details><br>
 
 
 <h3>🌈 Cultural Palette</h3>
 
-<table border=1 align="left" border-radius: 10px;">
+<table border=1 border-radius: 10px;">
     <tr>
       <td colspan=3 align="center">
         <div>
@@ -158,7 +157,9 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
   </table>
 <br><br>
 
-<table  align="right">
+<h3>🎯 Daily Target</h3>
+
+<table>
         <tr>
           <th>Task</th>
           <th>Count</th>
