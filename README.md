@@ -223,6 +223,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 [![Prototype Demo](https://img.shields.io/badge/Video-Click%20to%20Watch-red)](https://vimeo.com/video/931948800)
 
 <br>
-<img src="./logo/table.jpg" width="50%" height="50%" />
 
->  I use 4 OS at same time, Windows 10 & 11, RasOS, LinuxOS
+> During difficult times, self-forgiveness is key. Practicing  self-care, seeking support, and focusing on mental resilience. You are not alone, Mr.Stark.
+
