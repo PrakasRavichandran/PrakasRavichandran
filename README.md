@@ -150,7 +150,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/wi1Qv5nPo0ddJgjA0baD9MR3NC0.jpg" width="100" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/bHjLC5GuBfeyW6ZE07x6TalKj19.jpg" width="100" height="30%" />
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
