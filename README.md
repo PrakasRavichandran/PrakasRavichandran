@@ -111,7 +111,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <summary>📊 Insights from GitHub </summary>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&rank_icon=github&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00">
 
