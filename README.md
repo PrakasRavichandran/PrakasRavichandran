@@ -112,7 +112,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html&langs_count=8">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00">
 
 ![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=BA5F17&line=BA5F17&point=BA5F17&area_color=FFFFFF&title_color=FFFFFF&area=true)
@@ -224,5 +224,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-> During difficult times, self-forgiveness is key. Practicing  self-care, seeking support, and focusing on mental resilience. You are not alone, Mr.Stark.
+<img src="https://64.media.tumblr.com/691aa424d6decdbe0d5d7bbf8f329f78/tumblr_ou6jm4wcnI1vcfymso3_540.gif" width="50%" height="50%">
+
+> When I'm repairing instruments using soldering, I feel like I'm having my Tony Stark moment
 
