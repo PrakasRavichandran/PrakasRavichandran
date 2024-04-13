@@ -226,7 +226,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <img src="https://64.media.tumblr.com/691aa424d6decdbe0d5d7bbf8f329f78/tumblr_ou6jm4wcnI1vcfymso3_540.gif" width="50%" height="50%">
 
-> When I'm repairing instruments using soldering, I feel like I'm having my Tony Stark moment
+> I get lonely when I have to explain technical stuff and no one's there to help.
 
 <br><br>
 
