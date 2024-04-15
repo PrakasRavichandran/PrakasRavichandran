@@ -207,7 +207,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://prakashravichandran.netlify.app/" target="blank"><img align="center" src="./logo/PRPR.svg" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://prakashravichandrann.vercel.app/" target="blank"><img align="center" src="./logo/logo-full.png" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
 
@@ -226,6 +226,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <img src="https://i.pinimg.com/originals/a1/f5/88/a1f588ca0bd8ce1f29c74306ad236be7.gif" width="25%" height="25%">
 
-> mustache is the mirror of heart
+> mustache is the mirror of the heart
 
 
