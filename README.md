@@ -224,13 +224,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://64.media.tumblr.com/691aa424d6decdbe0d5d7bbf8f329f78/tumblr_ou6jm4wcnI1vcfymso3_540.gif" width="50%" height="50%">
+<img src="https://i.pinimg.com/originals/a1/f5/88/a1f588ca0bd8ce1f29c74306ad236be7.gif" width="25%" height="25%">
 
-> I get lonely when I have to explain technical stuff and no one's there to help.
+> mustache is the mirror of heart
 
-<br><br>
-
->> upcoming
-
-<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/046a1356-4422-49e2-9ebe-b8fd7fa9a249" width="50%" height="50%">
 
