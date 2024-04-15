@@ -150,7 +150,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/uPpmBjY3znUqGY8kYwI5xvOrSc0.jpg" width="100" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/9ECMeSTG2Qdi2PpjgGcvlgLpP8T.jpg" width="100" height="30%" />
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -224,8 +224,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://i.pinimg.com/originals/a1/f5/88/a1f588ca0bd8ce1f29c74306ad236be7.gif" width="25%" height="25%">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-c2fb2360da9d4bf24576c0815225b9d6" width="25%" height="25%">
 
-> mustache is the mirror of the heart
+> When daily I ate non-veg 🍗
 
 
