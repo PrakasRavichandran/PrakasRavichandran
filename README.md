@@ -224,8 +224,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-c2fb2360da9d4bf24576c0815225b9d6" width="25%" height="25%">
+<img src="https://miro.medium.com/v2/resize:fit:960/1*GSjlCGASc1BhL15fZLXe4w.gif" width="25%" height="25%">
 
-> When daily I ate non-veg 🍗
-
+> When I see electrical engineers at IT companies and others who didn't get jobs but criticize my field
 
