@@ -204,10 +204,10 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <p align="left">
 <a href="https://linkedin.com/in/prakashravichandran10" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/prakashravichandrann/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://prakashravichandrann.vercel.app/" target="blank"><img align="center" src="./logo/logo-full.png" alt="Prakash Ravichandran" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://prakashravichandrann.vercel.app/" target="blank"><img align="center" src="./logo/logo-full.png" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
 
