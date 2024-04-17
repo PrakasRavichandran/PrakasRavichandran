@@ -222,6 +222,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
+<!-- ![image](https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/7f8792a3-e84e-491b-a7cb-b2c09436e805) -->
+
 <img src="./logo/briyani.gif" width="25%" height="25%">
 
 > Continuously eating biryani, today count 27 🤯
