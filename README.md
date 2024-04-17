@@ -146,7 +146,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://m.media-amazon.com/images/I/51IpOCgYwQL._SY445_SX342_.jpg" width="100" height="30%" />
+         <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg?size=600" width="100" height="30%" />
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
