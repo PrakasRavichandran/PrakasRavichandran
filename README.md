@@ -222,7 +222,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://miro.medium.com/v2/resize:fit:960/1*GSjlCGASc1BhL15fZLXe4w.gif" width="25%" height="25%">
+<img src="./logo/briyani.gif" width="25%" height="25%">
 
-> When I see electrical engineers at IT companies and others who didn't get jobs but criticize my field
+> Continuously eating biryani, today count 27 🤯
 
