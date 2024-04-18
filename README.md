@@ -152,11 +152,11 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg?size=600" width="100" height="30%" />
+         <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg" width="100" height="30%" />
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/original/pBRkO5GHJqDB9D0fbumL5235JfJ.jpg" width="100" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/ccHYoV76o9ZFSnPUr0yPSab0oma.jpg" width="100" height="30%" />
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
