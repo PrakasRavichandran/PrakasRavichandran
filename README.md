@@ -228,10 +228,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<!-- ![image](https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/7f8792a3-e84e-491b-a7cb-b2c09436e805) -->
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMl47yF9bxSVMsNN8l1oJ8NSwXguXoZVkMZmxsc1C6nLcp6EWH1rdmWOKB&s=10" width="25%" height="25%">
 
-> Thiruvalluvar about Caste system before 2000+ years 
->> உழுதுண்டு வாழ்பவர்கள் மட்டுமே உயர்ந்த குடியினர்; ஏனென்றால், மற்றவர்கள் அவர்களைத் தொழுதுண்டு வாழ வேண்டியிருக்கிறது
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/7f8792a3-e84e-491b-a7cb-b2c09436e805" width="25%" height="25%">
 
+> I found my innocent face on my college website 2019 😄
