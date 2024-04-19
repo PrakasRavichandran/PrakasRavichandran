@@ -156,7 +156,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/ccHYoV76o9ZFSnPUr0yPSab0oma.jpg" width="100" height="30%" />
+         <img src="https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg" width="100" height="30%" />
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -230,10 +230,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <!-- ![image](https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/7f8792a3-e84e-491b-a7cb-b2c09436e805) -->
 
-<img src="https://img.wattpad.com/42d85b69c70152f406659e4ab8e1a33f52bddde2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f52794b5537646a413643664165513d3d2d3436323031303431372e313464656433343630396338313665353439363132333635363938322e676966" width="25%" height="25%">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMl47yF9bxSVMsNN8l1oJ8NSwXguXoZVkMZmxsc1C6nLcp6EWH1rdmWOKB&s=10" width="25%" height="25%">
 
-> சமுத்திரம் பெரிதா
-தேன் துளி பெரிதா சமுத்திரம்
-பெரிதா தேன் துளி பெரிதா
-தேன் தான் அது நான் தான்
+> Thiruvalluvar about Caste system before 2000+ years 
+>> உழுதுண்டு வாழ்பவர்கள் மட்டுமே உயர்ந்த குடியினர்; ஏனென்றால், மற்றவர்கள் அவர்களைத் தொழுதுண்டு வாழ வேண்டியிருக்கிறது
 
