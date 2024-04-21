@@ -6,7 +6,8 @@
 
 <h3>✨ A Little Bit of Me</h3>
 
-<img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" />
+<a href="https://jarvisx.vercel.app/">
+<img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" /> </a>
 
 ```yaml
 name: Prakash
@@ -148,15 +149,15 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
     </tr>
     <tr>
       <td  align="center"padding-top:500;">
-         <img src="./logo/bloggy.png" alt="friends of feelings book" width="100" height="50%"><br><br>
+         <a href="https://prakashdairies.netlify.app/"> <img src="./logo/bloggy.png" alt="friends of feelings book" width="100" height="50%"> </a><br><br>
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg" width="100" height="30%" />
+         <a href="https://literal.club/prakasravichandran/book/jayakanthan-sila-nerangalil-sila-manithargal-borgk"> <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <img src="https://image.tmdb.org/t/p/w342/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg" width="100" height="30%" />
+         <a href="https://movieecorn.netlify.app/movie/detail/787"><img src="https://image.tmdb.org/t/p/w342/wzIO3ytxeSNt1wRpXLIdkNbGoDm.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -230,6 +231,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 
 
-<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/7f8792a3-e84e-491b-a7cb-b2c09436e805" width="25%" height="25%">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-298ac9bf924b7d71c19a1f46c1ec8414" width="25%" height="25%">
 
-> I found my innocent face on my college website 2019 😄
+> ☠
