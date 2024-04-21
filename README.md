@@ -12,8 +12,6 @@
 ```yaml
 name: Prakash
 best friend call me: MR. Stark
-job: Manager - Electrical,  Robotics Embedded Engineer - Hardware & Software
-located: Chennai
 education:
   [
     "Self-Taught Developer and Designer",
@@ -134,7 +132,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <p  align="center">
   <img src="https://github-stackoverflow-readme.vercel.app/?userId=23835004">
 </p>
-</details><br>
+</details>
 
 
 <h3>🌈 Cultural Palette</h3>
@@ -143,7 +141,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
     <tr>
       <td colspan=3 align="center">
         <div>
-          <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="80%" height="25%" />
+          <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="80%" height="25%" />
        </div>
       </td>
     </tr>
@@ -162,9 +160,9 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
       </td>
     </tr>
   </table>
-<br><br>
 
-<h3>🎯 Daily Target</h3>
+
+<!--<h3>🎯 Daily Target</h3>
 
 <table>
         <tr>
@@ -203,7 +201,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
           <td>per Day</td>
         </tr>
 </table>
-<br>
+<br>-->
 
 <h3>🤝 Let's Collaborate</h3>
 <p align="left">
