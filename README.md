@@ -210,7 +210,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <a href="https://twitter.com/Prakash_r10" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://www.figma.com/@prakash_ui" target="blank"><img align="center" src="./logo/fig.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
 <a href="https://prakashdairies.netlify.app/" target="blank"><img align="center" src="./logo/blog.svg" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
-<a href="https://prakashravichandran.com" target="blank"><img align="center" src="./logo/logo-full.png" alt="Prakash Ravichandran" height="20" width="20" /></a>&nbsp;&nbsp;
+<a href="https://prakashravichandran.com" target="blank"><img align="center" src="./logo/logo-full.svg" alt="Prakash Ravichandran" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 <br><br>
 
