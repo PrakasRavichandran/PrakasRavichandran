@@ -147,7 +147,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
     </tr>
     <tr>
       <td  align="center"padding-top:500;">
-         <a href="https://prakashdairies.netlify.app/"> <img src="./logo/bloggy.png" alt="friends of feelings book" width="100" height="30%"> </a><br><br>
+         <a href="https://prakashdairies.netlify.app/"> <img src="./logo/bloggy.png" width="100" height="30%"> </a>
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
