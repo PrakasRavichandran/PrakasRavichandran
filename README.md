@@ -141,7 +141,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
     <tr>
       <td colspan=3 align="center">
         <div>
-          <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tjfsz43ir3hjz5gxrcsw7wiaxy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="80%" height="25%" />
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&count=3" width="100%" height="25%" />
        </div>
       </td>
     </tr>
@@ -155,7 +155,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/787"><img src="https://image.tmdb.org/t/p/w342/wzIO3ytxeSNt1wRpXLIdkNbGoDm.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/425"><img src="https://image.tmdb.org/t/p/w342/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
