@@ -141,7 +141,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
     <tr>
       <td colspan=3 align="center">
         <div>
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&count=3" width="100%" height="25%" />
+          <img src="https://stats-of-spotify.vercel.app/api" width="75%" />
        </div>
       </td>
     </tr>
