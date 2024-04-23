@@ -227,8 +227,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/5964f679-bc14-40c6-a5b1-f5f914e16467" width="25%" height="25%">
 
-
-<img src="https://qph.cf2.quoracdn.net/main-qimg-298ac9bf924b7d71c19a1f46c1ec8414" width="25%" height="25%">
-
-> ☠
+> Original vs Design
