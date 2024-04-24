@@ -137,7 +137,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <h3>🌈 Cultural Palette</h3>
 
-<table border=1 border-radius: 10px;">
+<table border=1 border-radius: 10px; align="center">
     <tr>
       <td colspan=3 align="center">
         <div>
@@ -155,7 +155,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/425"><img src="https://image.tmdb.org/t/p/w342/gLhHHZUzeseRXShoDyC4VqLgsNv.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1359"><img src="https://image.tmdb.org/t/p/w342/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -227,6 +227,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/5964f679-bc14-40c6-a5b1-f5f914e16467" width="25%" height="25%">
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/27ecbc0a-01e1-4941-9729-d0036265ab29" width="50%" height="25%">
 
-> Original vs Design
+> Final J.A.R.V.I.S Installations is progress..
