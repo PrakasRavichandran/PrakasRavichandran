@@ -227,6 +227,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/27ecbc0a-01e1-4941-9729-d0036265ab29" width="50%" height="25%">
+<img src="https://media.licdn.com/dms/image/D561FAQHuRZiuAIxn6g/feedshare-document-images_800/8/1713891961637?e=1714608000&v=beta&t=TnpatL0dShCOJkVhkhQAtli4lV8q8EAzInjvgSgO4Bw" width="25%" height="25%">
 
-> Final J.A.R.V.I.S Installations is progress..
+> I came across a long way alone... still ..,
