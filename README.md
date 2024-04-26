@@ -155,7 +155,7 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/281957"><img src="https://image.tmdb.org/t/p/w342/tSaBkriE7TpbjFoQUFXuikoz0dF.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1124"><img src="https://image.tmdb.org/t/p/w342/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
