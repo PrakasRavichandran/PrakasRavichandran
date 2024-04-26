@@ -227,6 +227,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 
 <br>
 
-<img src="https://i.makeagif.com/media/4-05-2024/BZJEGc.gif" width="25%" height="25%">
+<img src="https://media.licdn.com/dms/image/D5622AQELfR8s9YJlNg/feedshare-shrink_800/0/1712782325416?e=1717027200&v=beta&t=5f2-YV-Mwyi1ojvcYaveZxG3rShP4f-hE4KMfqbeeFY" width="25%" height="25%">
 
-> 🥳🎉
+> 😍🍓
