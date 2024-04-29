@@ -220,12 +220,6 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
 
 
-<h3>MR.Stark Workspace 🔬</h3>
+<h3>Dead Man Tales ⚰️</h3>
 
-
-[![Prototype Demo](https://img.shields.io/badge/Video-Click%20to%20Watch-red)](https://vimeo.com/video/931948800)
-
-<br>
-
-<img src="https://livinthethailifeblog.files.wordpress.com/2014/08/jarvis-ironman-interaction-gif.gif" width="25%" height="25%">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=42F7B9&random=false&width=435&lines=secret+of+happiness+is+freedom%2C;+secret+of+freedom+is+courage." alt="Typing SVG" /></a>
