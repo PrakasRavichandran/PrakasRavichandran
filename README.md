@@ -6,12 +6,11 @@
 
 <h3>✨ A Little Bit of Me</h3>
 
-<a href="https://jarvisx.vercel.app/">
-<img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" /> </a>
+<!--<a href="https://jarvisx.vercel.app/">
+<img src="https://img.shields.io/static/v1?label=Hello&message=JARVIS&color=green?style=plastic&logo=appveyor" /> </a>-->
 
 ```yaml
 name: Prakash
-best friend call me: MR. Stark
 education:
   [
     "Self-Taught Developer and Designer",
@@ -44,13 +43,13 @@ currently_learning: ["🛠 DIY Raspberry Pi Projects, 🤖 Robotics, and 🖼️
 hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Coding", "Writing ✍🏼"]
 challenge: ["Stop using social media for 1 year"]
 motto: ["Keep it simple and stupid ✨"]
-fun fact: ["나는 아이언 맨이다 ✌🏼"]
+fun fact: ["I can rewrite the story ✌🏼"]
 ```
 
 
 <details>
 <summary>💻 Tech Toolbox </summary>
-<p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>
+<!--<p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>-->
 
 <h4>Frontend</h4>
 <p align="left">
@@ -99,8 +98,8 @@ fun fact: ["나는 아이언 맨이다 ✌🏼"]
 <details>
 <summary>🏆 Noteworthy Milestones</summary>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<!--<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>-->
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=PrakasRavichandran&theme=juicyfresh&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
