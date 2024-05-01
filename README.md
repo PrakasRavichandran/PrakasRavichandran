@@ -48,50 +48,131 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 
 <details>
-<summary>💻 Tech Toolbox </summary>
+<summary>💻 Tech Toolbox </summary><br>
 <!--<p align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="150" height="150" /></p>-->
 
-<h4>Frontend</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=react,vite,ts,js,react,nextjs,redux,tailwind,svelte,md" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=arduino" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="48" height="48" />
+      </a>
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=babel" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="48" height="48" />
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="48" height="48" />
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=md" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="icon" />
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="icon" />
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="icon" />
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="icon" />
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="icon" />
+    </td>
+ </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="icon" />
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="icon" />
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="icon" />
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=svg" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="icon" />
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="icon" />
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="icon" />
+    </td>
+ </tr>
+</table>
 
-<h4>Backend</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,py," />
-  </a>
-</p>
-
-<h4>Embedded Systems</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" />
-  </a>
-</p>
-
-<h4>3D Modeling</h4>
-<p align="left">
-    <img src="./logo/solidworks.svg" width="60px" height="60px"/>
-  </a>
-</p>
-
-<h4>Database</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
-
-<h4>Cloud Servers</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,netlify,vercel" />
-  </a>
-</p>
-
-<h4>Tools</h4>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=matlab,git,github,figma,idea,visualstudio,vscode" />
-  </a>
-</p>
 </details>
 
 
@@ -113,15 +194,12 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <details>
 <summary>📊 Insights from GitHub </summary>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&rank_icon=github&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00">
-
-![PrakasRavichandran's Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=BA5F17&line=BA5F17&point=BA5F17&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br>
   
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&rank_icon=github&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="Prakash Ravichandran's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html&langs_count=8" alt="Prakash Ravichandran's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00" alt="Prakash Ravichandran's Github Streak Stats" /> |
+| ------------- | ------------- | ------------- |
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PrakasRavichandran&custom_title=Prakash's%20GitHub%20Activity%20Graph&hide_border=true&bg_color=0D1117&color=BA5F17&line=BA5F17&point=BA5F17&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Prakash Ravichandran's Github Streak Stats" />
 
 </details>
 
@@ -150,11 +228,11 @@ fun fact: ["I can rewrite the story ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/prakasravichandran/book/jayakanthan-sila-nerangalil-sila-manithargal-borgk"> <img src="https://assets.literal.club/2/cl02cyr16334720hbhfi888akv.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/prakasravichandran/book/rework-kljqe"> <img src="https://assets.literal.club/2/ckhdifujx05050zkhkan41tmr.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/271110"><img src="https://image.tmdb.org/t/p/w342/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/68718"><img src="https://image.tmdb.org/t/p/w342/bV0rWoiRo7pHUTQkh6Oio6irlXO.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
