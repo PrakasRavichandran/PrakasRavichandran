@@ -222,3 +222,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <h3>Dead Man Tales ⚰️</h3>
 
 <a href="https://youtube.com/shorts/VOb5l_Y-bM0?si=IRw0i_h_2y4cnSRh"><img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=42F7B9&random=false&width=435&lines=secret+of+happiness+is+freedom%2C;+secret+of+freedom+is+courage." alt="Typing SVG" /></a>
+
+<img src="https://github.com/PrakasRavichandran/PrakasRavichandran/assets/85834102/5def09a9-1ef1-4f78-98e1-0daad8d343af" height="50%" width="50%">
+
