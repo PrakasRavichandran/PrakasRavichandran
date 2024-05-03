@@ -205,6 +205,11 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <a href="https://www.google.com/search?q=groot&oq=groot+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIKCAMQABixAxiABDIKCAQQABixAxiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCTE0NTEzajBqMagCALACAA&sourceid=chrome&ie=UTF-8"><img src="https://img.wattpad.com/79d6df258b4fc37f6b8273068e7e9a1644851d83/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f776a696a696353386c65325553513d3d2d3536323033393731302e313532356339636233353463303839353630303637393232373136342e676966" width="15%" height="15%"></a><br> Created with 🧡 by <a href="https://prakashravichandran.com">Prakash</a><br><br><img src="https://komarev.com/ghpvc/?username=PrakasRavichandran&label=Profile%20views&color=0e75b6&style=flat" alt="Prakash"/><br><img src="https://img.shields.io/github/stars/PrakasRavichandran?label=Stars" alt="stars">  <img alt="followers" src="https://img.shields.io/github/followers/PrakasRavichandran?label=Followers&style=social"></p> <br>
 
 
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
+
 <p align="center">
 	<img width="50" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
 <p align="center"><strong>🤷‍♂️ No friends yet, but hey, that's why you're here, right? 🌵</strong></p>
@@ -221,10 +226,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <a href="https://prakashravichandran.com" target="blank"><img align="center" src="./logo/logo-full.svg" alt="Prakash Ravichandran" height="35" width="35" /></a>&nbsp;&nbsp;
 </p>
 <br>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="10%" width="100%">
-
 
 <h3>Dead Man Tales ⚰️</h3>
 
