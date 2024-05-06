@@ -160,6 +160,13 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <details>
 <summary>📊 Insights from GitHub </summary>
+<br><br>
+
+> 📜 37 Public Repositories 
+ > 
+> 🔑 27 Private Repositories 
+ > 
+
 <br>
   
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=PrakasRavichandran&rank_icon=github&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000" alt="Prakash Ravichandran's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakasRavichandran&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&hide=html,css&langs_count=8" alt="Prakash Ravichandran's GitHub stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PrakasRavichandran&theme=darcula&hide_border=true&background=FFFFFF00" alt="Prakash Ravichandran's Github Streak Stats" /> |
