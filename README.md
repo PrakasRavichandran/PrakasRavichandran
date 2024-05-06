@@ -187,11 +187,11 @@ fun fact: ["I can rewrite the story ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/prakasravichandran/book/rework-kljqe"> <img src="https://assets.literal.club/2/ckhdifujx05050zkhkan41tmr.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/book/you-are-a-badass-w3q87"> <img src="https://assets.literal.club/2/cklgk4p7n187791ifbarmt6r0d.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/68718"><img src="https://image.tmdb.org/t/p/w342/bV0rWoiRo7pHUTQkh6Oio6irlXO.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/657996"><img src="https://image.tmdb.org/t/p/w342/M1YQJ8lI7h9oJ9oxRKyMUzGwBh.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
