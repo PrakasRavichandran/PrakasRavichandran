@@ -198,7 +198,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/657996"><img src="https://image.tmdb.org/t/p/w342/M1YQJ8lI7h9oJ9oxRKyMUzGwBh.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/5175"><img src="https://image.tmdb.org/t/p/w342/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -236,6 +236,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <h3>Dead Man Tales ⚰️</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=42F7B9&random=false&width=435&lines=secret+of+happiness+is+freedom%2C;+secret+of+freedom+is+courage." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=FF0000&random=false&width=435&lines=cruel+is+matter+of+perspective." alt="Typing SVG" />
 
 
