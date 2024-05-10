@@ -198,7 +198,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/tv/detail/240"><img src="https://image.tmdb.org/t/p/w342/by2GTFpd2BQ5uJxWPlfcmfrNrfB.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/191121"><img src="https://image.tmdb.org/t/p/w342/wi1Qv5nPo0ddJgjA0baD9MR3NC0.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -239,6 +239,10 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <h3>Dead Man Tales ⚰️</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />
+<!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
+
+<img src="https://64.media.tumblr.com/e3039d1348f31f78a771c6cb80e1b9d6/5d214ed417c35b5c-76/s500x750/e0b89677abdac8d5200f798e884d7f8bc3d1ef3d.gif" height="10%" width="30%">
+
+>kundhan 💖 and zoya 🍓
 
