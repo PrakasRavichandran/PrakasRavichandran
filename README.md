@@ -8,7 +8,7 @@
 
 ```yaml
 name: Prakash
-currently_learning: ["🛠 DIY Raspberry Pi Projects, 🤖 Robotics, and 🖼️ Computer Vision"]
+currently_learning: ["🌀 To be Extroverted"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Coding", "Writing ✍🏼"]
 challenge: ["Stop using social media for 1 year"]
