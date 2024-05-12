@@ -242,17 +242,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://media.licdn.com/dms/image/D5622AQHt5fHMUYobQQ/feedshare-shrink_800/0/1715348520818?e=1718236800&v=beta&t=ovF2j-BjdpNV4rKoZyeip-bph4kXTfcUfGDyjfc8RMA" height="10%" width="30%">
+<img src="https://media.tenor.com/rnDfXcvkUS4AAAAM/jaskanwar-welcome.gif" height="10%" width="30%">
 
->3 Girls from humble backgrounds emerge as Tamil Nadu State Toppers by Scoring 499/500.
-
-Kavya Janani, Kavya Sri & Sanjana Anush from Tamil Nadu.
-
-*Kavya Janani - daily wage labourer's daughter*
-
-*Kavya Sri - daughter of a Farmer*
-
-*Sanjana Anush - from a humble background*
-
-📚 Education is the most Powerful Weapon that you can use to Change the World.
-
+>Great Escape 🏃‍♀️
