@@ -242,6 +242,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://media.tenor.com/rnDfXcvkUS4AAAAM/jaskanwar-welcome.gif" height="10%" width="30%">
+<img src="https://m.media-amazon.com/images/M/MV5BMjZkYWRkMzEtMjZiZC00YTE4LThmYWMtMDZlMmZjZjg3Mzc3XkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg" height="10%" width="30%">
 
->Great Escape 🏃‍♀️
+>நல்லது செய்திட பொய் சொல்லலாம் என வள்ளுவர் சொன்னாரு
+>>நாட்டுக்கு கோவிலை கட்டிய ஒருவர் திருடவும் செய்தாரு
