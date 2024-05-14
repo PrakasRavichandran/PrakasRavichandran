@@ -194,11 +194,11 @@ fun fact: ["I can rewrite the story ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/book/you-are-a-badass-w3q87"> <img src="https://assets.literal.club/2/cklgk4p7n187791ifbarmt6r0d.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/book/sarah-drasner-engineering-management-for-the-rest-of-us-m35vg"> <img src="https://assets.literal.club/cover/5/ckw7nm36911929051efso20l1cpa.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/834742"><img src="https://image.tmdb.org/t/p/w342/hqwSUWQcnd1cxpc6Gdx1X3t5v2O.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1586"><img src="https://image.tmdb.org/t/p/w342/nSKhvsW9rvct60o363PQpXwNFou.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -242,7 +242,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://m.media-amazon.com/images/M/MV5BMjZkYWRkMzEtMjZiZC00YTE4LThmYWMtMDZlMmZjZjg3Mzc3XkEyXkFqcGdeQXVyODMyODMxNDY@._V1_.jpg" height="10%" width="30%">
+<img src="https://media4.giphy.com/media/12VJqdR7odk7mw/giphy.gif" height="10%" width="30%">
 
->நல்லது செய்திட பொய் சொல்லலாம் என வள்ளுவர் சொன்னாரு
->>நாட்டுக்கு கோவிலை கட்டிய ஒருவர் திருடவும் செய்தாரு
+> ஒருத்தர் மனச மாத்துன உலகத்தையே மாத்தலாம் !
