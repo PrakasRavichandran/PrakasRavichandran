@@ -198,7 +198,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/225132"><img src="https://image.tmdb.org/t/p/w342/9VpgCSQppyDuw2Uv9xJVta1Uyt8.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/38575"><img src="https://image.tmdb.org/t/p/w342/bHjLC5GuBfeyW6ZE07x6TalKj19.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -242,6 +242,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://scontent.fmaa10-1.fna.fbcdn.net/v/t39.30808-6/277521158_503552174658578_836702721787302256_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7-aUPHABpewQ7kNvgGbxwQs&_nc_ht=scontent.fmaa10-1.fna&oh=00_AYBT9mrGzv3m-yUdQVjbIDOEg8HmmhKyeC6zZ7OyZXm2eQ&oe=664BA7B7" height="10%" width="35%">
+<img src="https://quotefancy.com/media/wallpaper/3840x2160/1783250-Britney-Spears-Quote-I-go-through-life-like-a-Karate-Kid.jpg" height="10%" width="35%">
 
-> Respectful Man!
+> Xiao Dre 
