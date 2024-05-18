@@ -198,7 +198,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/38575"><img src="https://image.tmdb.org/t/p/w342/bHjLC5GuBfeyW6ZE07x6TalKj19.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/49051"><img src="https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -242,6 +242,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://quotefancy.com/media/wallpaper/3840x2160/1783250-Britney-Spears-Quote-I-go-through-life-like-a-Karate-Kid.jpg" height="10%" width="35%">
+<img src="https://pbs.twimg.com/media/B92YYDPIQAA003q.jpg" height="10%" width="35%">
 
-> Xiao Dre 
+> Sid
+
