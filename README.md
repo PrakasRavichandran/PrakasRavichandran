@@ -164,7 +164,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 > 📜 37 Public Repositories 
  > 
-> 🔑 27 Private Repositories 
+> 🔑 29 Private Repositories 
  > 
 
 <br>
@@ -194,11 +194,11 @@ fun fact: ["I can rewrite the story ✌🏼"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/book/sarah-drasner-engineering-management-for-the-rest-of-us-m35vg"> <img src="https://assets.literal.club/cover/5/ckw7nm36911929051efso20l1cpa.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/prakasravichandran/book/mans-search-for-meaning-f33cf"> <img src="https://assets.literal.club/4/ckjso6xvk26030zj1bfk0mxpq.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/49051"><img src="https://image.tmdb.org/t/p/w342/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/950"><img src="https://image.tmdb.org/t/p/w342/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -242,7 +242,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://pbs.twimg.com/media/B92YYDPIQAA003q.jpg" height="10%" width="35%">
+<img src="https://i.pinimg.com/originals/da/59/1c/da591c4cc47838de8dacf5aa6a878f6d.jpg" height="10%" width="35%">
 
-> Sid
+> Make a least one opponent like, Aiyappan Nair 🔥
 
