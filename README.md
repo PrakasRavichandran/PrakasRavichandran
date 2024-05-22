@@ -242,7 +242,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://i.pinimg.com/originals/da/59/1c/da591c4cc47838de8dacf5aa6a878f6d.jpg" height="10%" width="35%">
+<img src="https://25.media.tumblr.com/87a02a52bcd846991a96cd7577632234/tumblr_mkxsecGtqa1s5vq8eo1_500.gif" height="10%" width="35%">
 
-> Make a least one opponent like, Aiyappan Nair 🔥
+> Next Time 👋
 
