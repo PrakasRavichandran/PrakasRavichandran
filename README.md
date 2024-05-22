@@ -198,11 +198,8 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/950"><img src="https://image.tmdb.org/t/p/w342/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1443"><img src="https://image.tmdb.org/t/p/w342/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
-      </td>
-      <td  align="center"padding-top:500;">
-         <img src="https://spotify-recently-played-readme.vercel.app/api?user=31tjfsz43ir3hjz5gxrcsw7wiaxy&count=5" width="250" height="30%" />
       </td>
     </tr>
   </table>
