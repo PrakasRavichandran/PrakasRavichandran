@@ -237,7 +237,6 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-
 <img src="https://c.tenor.com/Eco4ps09ZvEAAAAC/tenor.gif" height="10%" width="35%">
 
 > 🎉😍
