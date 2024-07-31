@@ -9,9 +9,8 @@
 ```yaml
 name: Prakash
 currently_learning: ["🌀 To be Extroverted"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Coding", "Writing ✍🏼"]
-challenge: ["Stop using social media for 1 year"]
+2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Writing ✍🏼"]
 motto: ["Keep it simple and stupid ✨"]
 fun fact: ["I can rewrite the story ✌🏼"]
 ```
@@ -190,7 +189,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <table border=1 border-radius: 10px; align="center">
       <td  align="center"padding-top:500;">
-         <a href="https://prakashdairies.netlify.app/"> <img src="./logo/bloggy.png" width="100" height="30%"> </a>
+          <img src="./logo/COM.png" width="100" height="30%">
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
@@ -198,7 +197,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/1443"><img src="https://image.tmdb.org/t/p/w342/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/44896"><img src="https://image.tmdb.org/t/p/w342/vGujQOfGIaZx5UWxf9JdNEOxl7B.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -219,8 +218,8 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <p align="center">
 	<img width="50" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif">
-<p align="center"><strong>🤷‍♂️ No friends yet, but hey, that's why you're here, right? 🌵</strong></p>
-<p align="center">If you want to make Mr. Stark's day, hit him up with a message! He promises not to talk your ear off... too much. 😄</p>
+<p align="center"><strong> Friend 👋?  </strong></p>
+<p align="center">If you want to make my day, hit up with a message! 💫</p>
 </p>
 </p>
 
@@ -239,7 +238,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
 
-<img src="https://25.media.tumblr.com/87a02a52bcd846991a96cd7577632234/tumblr_mkxsecGtqa1s5vq8eo1_500.gif" height="10%" width="35%">
+<img src="https://c.tenor.com/Eco4ps09ZvEAAAAC/tenor.gif" height="10%" width="35%">
 
-> Next Time 👋
+> 🎉😍
 
