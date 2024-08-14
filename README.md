@@ -1,6 +1,6 @@
 <img src="./logo/arc.svg" width="144" align="right" hspace="0" />
 
-✨ &nbsp;Hello, Guardians!  Uncover the wonders ♾️
+✨ &nbsp;Hello, Guardians!♾️
 ======
 
 
