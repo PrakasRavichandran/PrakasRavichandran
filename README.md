@@ -1,6 +1,6 @@
 <img src="./logo/arc.svg" width="144" align="right" hspace="0" />
 
-✨ &nbsp;Hello, Guardians!♾️
+🪄 &nbsp;Hello, Guardians!♾️
 ======
 
 
@@ -9,7 +9,6 @@
 ```yaml
 name: Prakash
 currently_learning: ["🌀 To be Extroverted"]
-2024 Goals: ["Create 25+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Writing ✍🏼"]
 motto: ["Keep it simple and stupid ✨"]
 fun fact: ["I can rewrite the story ✌🏼"]
@@ -237,7 +236,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://c.tenor.com/Eco4ps09ZvEAAAAC/tenor.gif" height="10%" width="35%">
+<img src="https://img.wattpad.com/417bf17c9624b0e57f9fd91454e6a97e9eee9a4f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f645a6263485a5f7457693453413d3d2d3734343734323636342e313561376465643962323565303938343439313137393435353238332e676966" height="10%" width="35%">
 
 > 🎉😍
 
