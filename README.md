@@ -1,17 +1,14 @@
 <img src="./logo/arc.svg" width="144" align="right" hspace="0" />
 
-🪄 &nbsp;Hello, Guardians!♾️
+Hello, Guardians!♾️
 ======
 
 
-<h3>✨ A Little Bit of Me</h3>
-
 ```yaml
 name: Prakash
-currently_learning: ["🌀 To be Extroverted"]
+currently_learning: ["🌀 To be Sigma"]
 hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Writing ✍🏼"]
-motto: ["Keep it simple and stupid ✨"]
-fun fact: ["I can rewrite the story ✌🏼"]
+fun fact: ["I can rewrite the story 🪄"]
 ```
 
 
@@ -196,7 +193,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/44896"><img src="https://image.tmdb.org/t/p/w342/vGujQOfGIaZx5UWxf9JdNEOxl7B.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/533535"><img src="https://image.tmdb.org/t/p/w342/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -236,7 +233,7 @@ fun fact: ["I can rewrite the story ✌🏼"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://img.wattpad.com/417bf17c9624b0e57f9fd91454e6a97e9eee9a4f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5f645a6263485a5f7457693453413d3d2d3734343734323636342e313561376465643962323565303938343439313137393435353238332e676966" height="10%" width="35%">
+<img src="https://i.pinimg.com/originals/f9/55/17/f9551778f81663c339cf51091460435b.gif" height="10%" width="35%">
 
-> 🎉😍
+> Showtime 🤜🏼
 
