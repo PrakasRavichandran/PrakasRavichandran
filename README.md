@@ -233,7 +233,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://i.pinimg.com/originals/f9/55/17/f9551778f81663c339cf51091460435b.gif" height="10%" width="35%">
+<img src="https://i.redd.it/5m5hizf70j191.gif" height="10%" width="35%">
 
-> Showtime 🤜🏼
+> Don't Care
 
