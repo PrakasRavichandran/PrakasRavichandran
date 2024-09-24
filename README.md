@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/aef99e29-feb7-4199-985e-fdb4a4f58473)<img src="./logo/arc.svg" width="144" align="right" hspace="0" />
-
 Hello, Guardians!♾️
 ======
 
