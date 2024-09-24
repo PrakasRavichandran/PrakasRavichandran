@@ -1,4 +1,4 @@
-<img src="./logo/arc.svg" width="144" align="right" hspace="0" />
+![image](https://github.com/user-attachments/assets/aef99e29-feb7-4199-985e-fdb4a4f58473)<img src="./logo/arc.svg" width="144" align="right" hspace="0" />
 
 Hello, Guardians!♾️
 ======
@@ -189,7 +189,7 @@ fun fact: ["I can rewrite the story 🪄"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/prakasravichandran/book/mans-search-for-meaning-f33cf"> <img src="https://assets.literal.club/4/ckjso6xvk26030zj1bfk0mxpq.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/prakasravichandran/book/the-power-of-your-subconscious-mind-9xlhd"> <img src="https://assets.literal.club/3/ckp43w50x1056441id5jwmrwjbz.jpg" width="100" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
