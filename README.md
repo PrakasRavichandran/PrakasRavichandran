@@ -7,7 +7,7 @@ Hello, Guardians!♾️
 ```yaml
 name: Prakash
 currently_learning: ["🌀 To be Sigma"]
-hobbies: ["Music 🎵", "Cinema 🎥", "Boxing 🥊", "Writing ✍🏼"]
+hobbies: ["Music 🎵", "Cinema 🎥", "Coding 👨🏽‍💻", "Designing 🎨", "Writing ✍🏼"]
 fun fact: ["I can rewrite the story 🪄"]
 ```
 
