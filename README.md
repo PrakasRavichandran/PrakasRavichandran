@@ -193,7 +193,7 @@ fun fact: ["I can rewrite the story 🪄"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/tv/detail/66732"><img src="https://image.tmdb.org/t/p/w342/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1136423"><img src="https://image.tmdb.org/t/p/w342/cB6qZSRgLqlABaOdtMtLAiK7C7j.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://media1.popsugar-assets.com/files/thumbor/6Tdto-EsdBwGO2kDYrLoq9-jqHQ=/fit-in/480x241/top/filters:format_auto():upscale()/2019/07/10/002/n/46186280/71b7135cbba482d0_giphy_1.gif" height="10%" width="35%">
+<img src="https://i.pinimg.com/originals/0a/83/63/0a8363167cb6b842a1e550fbba7a1f03.gif" height="10%" width="35%">
 
-> Nah !
+> Read !
 
