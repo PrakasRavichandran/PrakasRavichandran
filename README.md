@@ -193,7 +193,7 @@ fun fact: ["I can rewrite the story 🪄"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/tv/detail/70523"><img src="https://image.tmdb.org/t/p/w342/7CFCzWIZZcnxHke3yAQiGPWXHwF.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1090969"><img src="https://image.tmdb.org/t/p/w342/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg" width="100" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://64.media.tumblr.com/155b7af8aa0eeab27646bee2bb0110a5/2ea256f8cb499e24-2b/s400x600/2d0a9940143cacf5238957bb5e8f8a090173ecd0.gif">
+<img src="https://64.media.tumblr.com/b72b356ad52f1be511019cd6f20bc897/tumblr_oxtmtc888Q1tfw70go1_500.gif">
 
-> Six Packs 🤸🏽‍♀️ !
+>Cheems 🐶 !
 
