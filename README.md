@@ -183,17 +183,17 @@ fun fact: ["I can rewrite the story 🪄"]
 <details>
 <summary>🌈 Cultural Palette</summary>
 
-<table border=1 border-radius: 10px; align="center">
+<table border=0 border-radius: 10px; align="center">
       <td  align="center"padding-top:500;">
-          <img src="./logo/011.png" width="100" height="30%">
+          <img src="./logo/011.png" width="150" height="30%">
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/book/jayakanthan-oru-nadigai-naadagam-parkkiral-u0n6h"> <img src="https://assets.literal.club/2/cl02cyoq6329190hbhi573a79m.jpg" width="100" height="30%" /> </a>
+         <a href="https://literal.club/book/jayakanthan-oru-nadigai-naadagam-parkkiral-u0n6h"> <img src="https://assets.literal.club/2/cl02cyoq6329190hbhi573a79m.jpg" width="150" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/1090969"><img src="https://image.tmdb.org/t/p/w342/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg" width="100" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/1090969"><img src="https://image.tmdb.org/t/p/w342/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg" width="150" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
