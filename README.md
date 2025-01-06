@@ -189,11 +189,11 @@ fun fact: ["I can rewrite the story 🪄"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/book/jayakanthan-oru-nadigai-naadagam-parkkiral-u0n6h"> <img src="https://assets.literal.club/2/cl02cyoq6329190hbhi573a79m.jpg" width="150" height="30%" /> </a>
+         <a href="https://literal.club/book/jayakanthan-oru-manithan-oru-veedu-oru-ulagam-reoo2"> <img src="https://books.google.com/books/content?id=r9xPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="150" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/1090969"><img src="https://image.tmdb.org/t/p/w342/aFTO0tCTxXazstWfhOQHPb3kcMT.jpg" width="150" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/228150"><img src="https://image.tmdb.org/t/p/w342/c5dOrzJiW3jA3Erej6zOgJX8y76.jpg" width="150" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://64.media.tumblr.com/b72b356ad52f1be511019cd6f20bc897/tumblr_oxtmtc888Q1tfw70go1_500.gif">
+<img src="https://64.media.tumblr.com/6f76a3b67e5db08b58c0664d93c8377f/c9f5ac4d7eaddadd-41/s400x600/a8a70ecc371f81eb40da54d9b5ac5c6b79d5a56e.gif">
 
->Cheems 🐶 !
+> I've strength!
 
