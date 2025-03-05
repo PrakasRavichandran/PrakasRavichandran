@@ -193,7 +193,7 @@ fun fact: ["I can rewrite the story 🪄"]
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/228150"><img src="https://image.tmdb.org/t/p/w342/c5dOrzJiW3jA3Erej6zOgJX8y76.jpg" width="150" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/movie/detail/19913"><img src="https://image.tmdb.org/t/p/w342/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg" width="150" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://64.media.tumblr.com/6f76a3b67e5db08b58c0664d93c8377f/c9f5ac4d7eaddadd-41/s400x600/a8a70ecc371f81eb40da54d9b5ac5c6b79d5a56e.gif">
+<img src="https://media3.giphy.com/media/3oz8xGme7vEndhrsly/200.gif?cid=6c09b9523ed10z2c3md5dgd1k5qcp4nu2co4cdqrjsykhyvb&ep=v1_internal_gif_by_id&rid=200.gif">
 
-> I've strength!
+> 24 🎂
 
