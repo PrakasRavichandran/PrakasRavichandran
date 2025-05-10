@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://media3.giphy.com/media/3oz8xGme7vEndhrsly/200.gif?cid=6c09b9523ed10z2c3md5dgd1k5qcp4nu2co4cdqrjsykhyvb&ep=v1_internal_gif_by_id&rid=200.gif">
+<img src="https://i.pinimg.com/originals/93/e6/3f/93e63f05a412a68f1404dfe83e5817eb.gif">
 
-> 24 🎂
+> It's happened! Jesus Christ ✝️
 
