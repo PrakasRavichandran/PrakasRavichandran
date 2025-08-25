@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://i.pinimg.com/originals/93/e6/3f/93e63f05a412a68f1404dfe83e5817eb.gif">
+<img src="https://c.tenor.com/cY_gURt3ra4AAAAC/tenor.gif">
 
-> It's happened! Jesus Christ ✝️
+> Prime Time ⏳
 
