@@ -1,6 +1,6 @@
 <img src="./logo/arc.svg" width="144" align="right" hspace="0" />
 
-Hello, Guardians!♾️
+Hello, Lads!♾️
 ======
 
 
@@ -189,11 +189,11 @@ fun fact: ["I can rewrite the story 🪄"]
             <h6 align="center">Writing 📝</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://literal.club/book/jayakanthan-oru-manithan-oru-veedu-oru-ulagam-reoo2"> <img src="https://books.google.com/books/content?id=r9xPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="150" height="30%" /> </a>
+         <a href="https://literal.club/book/arthamulla-indhu-matham-part-1-amo0g"> <img src="https://books.google.com/books/content?id=323BBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="150" height="30%" /> </a>
          <h6 align="center">Book 📕</h6>
       </td>
       <td  align="center"padding-top:500;">
-         <a href="https://movieecorn.netlify.app/movie/detail/19913"><img src="https://image.tmdb.org/t/p/w342/qXAuQ9hF30sQRsXf40OfRVl0MJZ.jpg" width="150" height="30%" /></a>
+         <a href="https://movieecorn.netlify.app/tv/detail/1399"><img src="https://image.tmdb.org/t/p/w342/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg" width="150" height="30%" /></a>
        <h6 align="center">Movie 🍿</h6>
       </td>
     </tr>
@@ -235,7 +235,7 @@ fun fact: ["I can rewrite the story 🪄"]
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Jersey+15&weight=350&size=18&pause=1000&color=005BFF&random=false&width=435&lines=Payday+is+happier+than+increment+day 💵." alt="Typing SVG" />-->
 
-<img src="https://c.tenor.com/cY_gURt3ra4AAAAC/tenor.gif">
+<img src="https://media1.tenor.com/m/-YHuGjFqYYsAAAAd/wink-game-of-thrones.gif">
 
-> Prime Time ⏳
+> Coming from death means you're a god or evil 🖤
 
